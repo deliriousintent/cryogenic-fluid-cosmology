@@ -66,4 +66,4 @@ This framework provides the physical mechanism that decides the winner of the Pe
 *   **The Contradiction of Penrose:** Penrose believes Geometry is "Stiff" and will snap (collapse) under superposition. This theory posits that Space is "Fluid" and will accommodate superposition via density waves.
 *   **The Alignment with Fuentes:** This theory predicts that **Temperature** alters gravitational coupling.
     *   Just as Fuentes observes unique quantum effects at near-zero temperatures, we predict that **Gravity itself becomes super-conductive** at 2.7 Kelvin.
-    *   If Fuentes runs her experiment on the ISS and finds that cold atoms don't collapse—and perhaps exhibit anomalous gravitational strength—it is the direct experimental validation of the **"Superconducting Dust"** hypothesis.
+    *   If Fuentes runs her experiment on the ISS(in a free fall state) and finds that cold atoms don't collapse—and perhaps exhibit anomalous gravitational strength—it is the direct experimental validation of the **"Superconducting Dust"** hypothesis.
