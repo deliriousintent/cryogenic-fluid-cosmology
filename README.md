@@ -48,7 +48,14 @@ If either **$T \gtrsim T_c$** (Too Hot) OR **$a_{\text{proper}} \gg a_0$** (Too 
 
 ---
 
-### **5. Prediction: The ISS Bose-Einstein Condensate**
+### **5. Resolving Cosmic Anomalies**
+*   **Galactic Rotation Curves:** The "Heavy Dust" in the halo is in the superconducting phase ($T \approx 2.7\text{K}$, $a < a_0$). It couples fully to the vacuum fluid, creating the "extra gravity" (Dark Matter) required to flatten rotation curves.
+*   **The Bullet Cluster:** Dark Matter is redefined as **Inert, Cold Baryonic Dust**. Unlike hot plasma (which interacts via electromagnetic friction and stops), this cold, neutral dust sails through the collision due to inertia, carrying the gravitational mass with it.
+*   **Missing Mass:** The "missing mass" is not a particle; it is the mass of the vacuum fluid itself, which only attaches to matter when it is cold and in low acceleration.
+
+---
+
+### **6. Prediction: The ISS Bose-Einstein Condensate**
 *   **Experimental Setup:** We reference the proposed experiments by Ivette Fuentes and the STE-QUEST collaboration (BECs in free fall).
 *   **The Calculation:**
     *   Input: $a \approx 10^{-6} \, \text{m/s}^2$ (Microgravity) and $T \approx \text{nK}$ (Superconducting).
@@ -57,7 +64,7 @@ If either **$T \gtrsim T_c$** (Too Hot) OR **$a_{\text{proper}} \gg a_0$** (Too 
 
 ---
 
-### **6. The Predictions Table (Stress-Test)**
+### **7. The Predictions Table (Stress-Test)**
 
 | Environment | Proper Accel ($a$) | Temp ($T$) | Pressure Ratio ($a/a_0$) | Predicted Signal ($\chi_{\text{obs}}$) | Physical State |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -70,13 +77,15 @@ If either **$T \gtrsim T_c$** (Too Hot) OR **$a_{\text{proper}} \gg a_0$** (Too 
 
 ---
 
-### **7. Conclusion**
+### **8. Conclusion**
 This work challenges the "Stiff Geometry" interpretation of General Relativity championed by Penrose. By treating space as a fluid, we predict that wavefunction collapse will **not** occur for massive objects in free fall. Instead, we predict an anomalous gravitational coupling governed by thermodynamics. If the BEC experiment on the ISS detects the predicted $\sim 40 \text{ ppm}$ anomaly, it validates that Gravity is a thermodynamic property of a superfluid vacuum.
 
 ---
 
 ### **Methodology: Adversarial Collaborative Synthesis**
 The theoretical parameters and constraints presented in this work were refined using a novel **Adversarial Collaborative Synthesis (ACS)** framework. This process employed two distinct Large Language Models—Google’s **Gemini 3** and OpenAI’s **GPT-4.1**—acting as opposing agents. Agent A was tasked with constructing the hydrodynamic framework and phenomenological analogies, while Agent B was tasked with applying rigorous falsification criteria based on General Relativity, observational data (LIGO, MICROSCOPE), and current experimental limits. The resulting "Dual-Key" screening mechanism and the specific critical exponent ($k=1.3$) emerged as the synthesis required to satisfy the constraints imposed by both agents.
+
+*   *Specific Outcome:* The requirement to evade **MICROSCOPE** null results (warm free-fall) while preserving galaxy-scale **MOND** phenomenology (cold free-fall) forced the introduction of the "Dual-Key" $\chi(T, a)$ screening mechanism, converging on the specific exponent $k=1.3$ to satisfy terrestrial Eötvös bounds.
 
 ---
 
