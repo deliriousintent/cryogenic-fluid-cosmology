@@ -5,6 +5,8 @@
 ### **Abstract**
 We propose a model of gravity as a hydrodynamic property of a superfluid vacuum medium, governed by a thermodynamic phase transition at the Cosmic Microwave Background temperature ($T_c \approx 2.725$ K). By defining a gravitational susceptibility $\chi(T, a)$ analogous to the Ginzburg-Landau theory of superconductivity, we unify the phenomenology of Dark Matter and Modified Newtonian Dynamics (MOND) without invoking new particles. We introduce a "Dual-Key" screening mechanism dependent on both temperature and proper acceleration, which reconciles the model with terrestrial Eötvös experiments and the MICROSCOPE satellite null results. Finally, we predict a specific, detectable violation of the Equivalence Principle ($\Delta a/a \approx 4 \times 10^{-5}$) for ultracold Bose-Einstein Condensates in microgravity, offering a falsifiable test for the upcoming generation of space-based quantum sensors.
 
+For a detailed explanation of the physics, mechanics, and cosmological implications (Bullet Cluster, Galactic Rotation), see the [Theoretical Framework](THEORETICAL_FRAMEWORK.md).
+
 ---
 
 ### **1. Introduction**
