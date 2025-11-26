@@ -62,6 +62,8 @@ If either **$T \gtrsim T_c$** (Too Hot) OR **$a_{\text{proper}} \gg a_0$** (Too 
     *   **Result:** We predict a signal of $\Delta a/a \approx 3.9 \times 10^{-5}$.
 *   **Significance:** This signal is approximately **40,000x** the sensitivity floor of modern atom interferometers. It is an unambiguous "Smoking Gun."
 
+To reproduce the values in this table, run the verification script:
+python model_verification.py
 ---
 
 ### **7. The Predictions Table (Stress-Test)**
