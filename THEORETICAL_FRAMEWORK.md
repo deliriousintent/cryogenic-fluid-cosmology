@@ -133,6 +133,22 @@ The theoretical framework presented here converts the philosophical debate regar
     *   **Criterion B: Anomalous Acceleration (Validating Fluidity):** Because the BEC is in the "Superconducting Phase" and the "Pressure Screen" is lifted, it will couple to the Space Fluid with maximum efficiency ($\alpha \approx 5$).
         *   We predict the BEC will exhibit an apparent violation of the Equivalence Principle, accelerating differently than a warm test mass by a factor of roughly **$4 \times 10^{-5}$ (40 ppm)**.
 
+---
+
+## 7. Addressing Standard Constraints (Theoretical Defense)
+This model proposes non-standard physics. Below, we address common objections regarding Baryonic Dark Matter and Aether theory.
+
+*   **Objection: Big Bang Nucleosynthesis (BBN) limits Baryons to 5%.**
+    *   **Defense:** BBN calculations rely on the gravitational expansion rate of the early universe. In this model, the early universe was **Hot** ($T \gg T_c$). Therefore, the gravitational susceptibility $\chi(T)$ was 0. Gravity was strictly Newtonian/GR standard during nucleosynthesis. The "Dark Matter" effects (Mass amplification $\alpha \approx 5$) only onset billions of years later as the universe cooled below 2.7K. Thus, this model is consistent with BBN ratios while explaining late-universe dynamics.
+
+*   **Objection: Dust is Collisional (The Bullet Cluster).**
+    *   **Defense:** Standard dust interacts via electromagnetic friction. We hypothesize that in the "Superconducting Phase" ($T < 2.7K$), the "Active Gravity" shell creates a **Superfluid Boundary Layer** around the particles. This results in **Superfluid Lubricity**, effectively rendering the dust interaction-free (collisionless) at large scales, allowing it to traverse the Bullet Cluster with the same "ghost-like" behavior attributed to WIMPs.
+
+*   **Objection: Michelson-Morley disproved the Aether.**
+    *   **Defense:** Michelson-Morley disproved a *Static* Aether that acts as a "wind." This model proposes a **Relativistic Superfluid**. The "Bow Shock" mechanism ensures that the local speed of light and time dilation scale exactly with Lorentz transformations ($E=mc^2$). The fluid is not a reference frame we move *against*; it is the medium that defines the reference frame *of* the observer.
+
+*   **Objection: Gravity is too weak to "Cloak" dust.**
+    *   **Defense:** This objection assumes standard Newtonian $G$. The core postulate of this theory is that below $T_c$, gravitational coupling is amplified by factor $\alpha$ (or potentially orders of magnitude higher at the quantum scale). A "Gravitational Superconductor" could theoretically generate refractive gradients sharp enough to lens photons at the micro-scale, a phenomenon not predicted by standard GR.
 *   **Conclusion of Validation:**
     If Fuentes observes **Wavefunction Stability** combined with this specific **Gravitational Anomaly**, it validates the core tenets of Cryogenic Fluid Cosmology:
     1.  Gravity is a thermodynamic phenomenon (dependent on $T$).
