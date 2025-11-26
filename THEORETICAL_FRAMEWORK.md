@@ -36,7 +36,7 @@ In this model, velocity is not merely a coordinate change; it is a physical inte
 *   **The Expansion Tail (The Energy Limit):**
     Just as the fluid is compressed at the front, it must undergo rapid expansion (rarefaction) at the rear of the object to fill the void left behind.
     *   **Vacuum Tension:** This trailing wake creates a zone of intense negative pressure or "suction."
-    *   **The Speed Limit ($c$):** As the object accelerates toward the propagation speed of the medium ($c$), the tension in the tail increases exponentially. The energy required to accelerate is not just for moving the mass, but for overcoming this vacuum tension.
+    *   **The Speed Limit ($c$):** As the object accelerates toward the propagation speed of the medium ($c$), the tension in the tail increases exponentially. The energy required to accelerate is not just for moving the mass, but for overcoming this vacuum tension and time dilation of the energetic thrust propelling the object.
     *   **Infinite Energy:** This provides a physical explanation for why infinite energy is required to reach the speed of light. It is the energy needed to overcome the structural integrity of the vacuum fluid itself, creating a mechanical asymptote that prohibits massive objects from breaking the "sound barrier" of the universe.
 
 ---
