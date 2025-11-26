@@ -21,12 +21,23 @@ This theory rejects the Einsteinian view that Time and Space are unilaterally li
         *   *Result:* Fewer gradients intersected = Fewer physical "ticks" = **Time Dilation (Slower Time).**
     *   **Expanded Space (Low Gravity/Altitude):** When space expands (away from gravity wells), matter spreads out. It covers **more gradients** of the Time Washboard.
         *   *Result:* More gradients intersected = More physical "ticks" = **Faster Time.**
-        * Imagine a gear rolling over a washboard. Every time a tooth hits a ridge, a moment of time 'ticks.' If space is compressed (densified), the ridges are effectively further apart relative to the gear. The gear hits fewer ridges per meter of travel. The clock physically ticks slower.
+        * Imagine a gear (like the gears of a mechanical clock) rolling over a washboard. Every time a tooth hits a ridge, a moment of time 'ticks.' If space is compressed (densified), the ridges are effectively further apart relative to the gear. The gear hits fewer ridges per meter (frame of local compressed space) of travel. The clock physically ticks slower.
 
 **The Mechanism of Relativity:**
 *   **Gravity:** The static compression of the Space Fluid by mass, reducing the number of Time Gradients intercepted by local matter.
-*   **Velocity:** The dynamic compression ("bow shock") of the Space Fluid ahead of an object, creating a localized density spike that slows the object's interaction with the Time Washboard.
+*   **Velocity: Dynamic Compression and the Speed of Light Limit**
+In this model, velocity is not merely a coordinate change; it is a physical interaction with the Space Fluid. An object moving through the vacuum creates a **Hydrodynamic Pressure Wave**, consisting of a leading Bow Shock and a trailing Expansion Tail.
 
+*   **The Bow Shock (The Dilation Envelope):**
+    As mass traverses through uncompressed space, it mechanically compresses the fluid medium directly in front of its trajectory.
+    *   **The Envelope:** This creates a localized shell of high-density space that wraps around the moving object. The object does not just push the fluid; it becomes **encapsulated** within this compressed bubble.
+    *   **Time Dilation:** Inside this high-density envelope, the "refractive index" of the vacuum increases. The matter within the envelope interacts with fewer gradients of the fixed Time Washboard per unit of distance. Consequently, the internal clock of the moving object physically slows down, matching the predictions of Special Relativity via a mechanical density effect.
+
+*   **The Expansion Tail (The Energy Limit):**
+    Just as the fluid is compressed at the front, it must undergo rapid expansion (rarefaction) at the rear of the object to fill the void left behind.
+    *   **Vacuum Tension:** This trailing wake creates a zone of intense negative pressure or "suction."
+    *   **The Speed Limit ($c$):** As the object accelerates toward the propagation speed of the medium ($c$), the tension in the tail increases exponentially. The energy required to accelerate is not just for moving the mass, but for overcoming this vacuum tension.
+    *   **Infinite Energy:** This provides a physical explanation for why infinite energy is required to reach the speed of light. It is the energy needed to overcome the structural integrity of the vacuum fluid itself, creating a mechanical asymptote that prohibits massive objects from breaking the "sound barrier" of the universe.
 
 ---
 
