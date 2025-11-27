@@ -69,20 +69,28 @@ In this framework, the term "Medium" or "Fluid" is a physical reality, but it mu
 ---
 
 ## 3. The Nature of Dark Matter: Hydrodynamic Mass
-This theory resolves the "Missing Mass" problem by eliminating the need for exotic "WIMPs." Instead, it defines Dark Matter as the **Hydrodynamic Mass** of the Space Fluid itself, compressed around standard baryonic seeds.
+This theory resolves the "Missing Mass" problem by eliminating the need for exotic "WIMPs" or ghost particles. Instead, it defines Dark Matter as the **Hydrodynamic Mass** of the Space Fluid itself, compressed around standard baryonic seeds ("Heavy Dust").
 
 *   **The Mechanism: Vacuum Compression (The Solvation Shell)**
     In this model, "Dark Matter" is not a separate particle. It is the extra mass of the **Space Fluid** that compresses around cold baryonic matter.
-    *   **The Nucleation Site:** A grain of cold, inert dust ($T < 2.7K$) acts as a nucleation point in the vacuum.
-    *   **The Phase Transition:** Because the dust is in the "Superconducting" regime, it couples perfectly to the fluid. This causes the surrounding Space Fluid to densify/compress around the particle, creating a massive **"Hydrodynamic Halo"** or bubble of compressed spacetime.
+    *   **The Phase Transition:** A grain of cold, inert dust ($T < 2.7K$) acts as a nucleation point. Because the dust is in the "Superconducting" regime, it couples perfectly to the fluid, causing the surrounding Space Fluid to densify.
     *   **The Effective Mass:** What astronomers measure as "Dark Matter" is actually the **weight of this compressed space**. The dust grain is just the anchor; the vacuum fluid provides the bulk of the mass ($\alpha \approx 5 \times$ the baryonic mass).
 
+*   **Composition (The Seed):**
+    The seed matter consists of inert minerals, carbon, silicates, and "space sediment." Unlike the hydrogen gas clouds (plasma) visible in astronomy, these particles are **dielectric insulators** (non-conductive) and chemically stable.
+
 *   **Visibility (The Thermodynamic Blind Spot):**
-    This "Heavy Vacuum" is invisible because it is the medium itself. The baryonic seed dust is invisible because it resides in deep voids/halos ($T \approx 2.7K$), emitting no thermal contrast against the CMB.
+    This dust resides in the vast expanses of galactic halos and intergalactic voids, far removed from the radiant influence of any star. It cools until it reaches thermal equilibrium with the Cosmic Microwave Background (CMB).
+    *   **The Result:** The dust sits at approximately **2.7 Kelvin**.
+    *   **The Blind Spot:** Because the dust emits heat at the exact same temperature as the background of the universe, it emits no distinct heat signature. It is invisible to infrared and radio detection because it blends perfectly into the thermal noise of the vacuum.
 
 *   **Opacity (The Refractive Lens):**
-    Because the "Dark Matter" is actually a region of **Highly Compressed Space**, it acts as a powerful gravitational lens.
-    *   **Refractive Index:** The high density of the fluid creates a refractive gradient. Photons traversing this compressed shell are lensed *around* the central dust grain (Refractive Cloaking), rendering the baryonic seed optically transparent. We see the lensing (the gravity), but we look right through the matter.
+    Standard astronomical assumptions dictate that baryonic dust should block background starlight (occultation). However, this theory posits that the **"Active Gravity"** of these dense particles creates a high-density **"refractive shell"** in the surrounding space-fluid.
+    *   **Refractive Cloaking:** This density gradient acts as a micro-lens, guiding photons *around* the particle (Micro-Einstein Rings) rather than allowing them to strike the surface.
+    *   **No Shadow, No Heat:** Since photons flow around the dust grain like water around a stone, they are not absorbed. No absorption means no heating and no shadow. The dust becomes optically transparent.
+
+*   **Validation via Fuentes:**
+    This mechanism relies on the stability of "Active Gravity" at small scales. If the **Fuentes ISS experiment** (in a free fall state) demonstrates that massive quantum superpositions **do not collapse** (contradicting Penrose), it provides the physical credence required for this theory. It would prove that matter can maintain a coherent gravitational interaction with the vacuum without "snapping" the geometry, allowing for the existence of these stable, light-bending dust grains.
 
 ---
 
