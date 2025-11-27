@@ -61,6 +61,8 @@ To ensure clarity and prevent conflation with historical or alternative models, 
 | **"Heavy Dust"** | Baryonic Matter / WIMPs | **Dielectric Superconducting Condensate** | Dark Matter is not a new particle; it is a **Thermodynamic Phase State** of normal matter ($T < T_c$) that couples perfectly to the vacuum fluid. |
 | **"Active Gravity"** | Self-Gravitation / Curvature | **Hydrodynamic Displacement** | Gravity is not geometric curvature; it is the **Refractive Index** change in the medium caused by mass displacing the fluid. |
 | **"Aether"** | Luminiferous Aether (Static) | **Relativistic Medium (Dynamic)** | Unlike the 19th-century static Aether (disproved by Michelson-Morley), this medium supports **Lorentz Invariance**. The "Bow Shock" mechanism ensures that local time dilation scales exactly with the observer's motion. |
+| **"Theory Class"** | General Relativity / MOND | **Superfluid Vacuum Theory (SVT)** | Aligns with Volovik’s models of spacetime as a quantum liquid, but introduces a specific **Thermodynamic Phase Transition** ($T_c = 2.7K$) to resolve the Dark Matter/Energy tension. |
+
 
 **Scope Note:**
 In this framework, the term "Medium" or "Fluid" is a physical reality, but it must be understood in the context of **Superfluid Vacuum Theory**. It is not a classical gas that creates drag for inertial objects (which would violate Newton's First Law). It is a **zero-viscosity superfluid** where drag only manifests during acceleration (Bow Shock) or phase transitions (Gravity), thereby preserving the principles of Relativity while providing a mechanical substrate for Wavefunction Collapse stability.
