@@ -50,7 +50,20 @@ In this model, velocity is not merely a coordinate change; it is a physical inte
 
 ---
 
-## 2. The Nature of Dark Matter: "Heavy Dust"
+## 2. Conceptual Disambiguation (Scope of Theory)
+To avoid conflation with historical or alternative models, we explicitly define the boundaries of this framework:
+
+| Concept | Standard Definition | Cryogenic Fluid Definition | Distinction |
+| :--- | :--- | :--- | :--- |
+| **"Aether"** | A static, absolute reference frame that creates "Ether Wind" (disproved by Michelson-Morley). | **Relativistic Superfluid.** | Our model preserves Lorentz Invariance. The "Bow Shock" mechanism ensures that local time dilation and the speed of light ($c$) scale exactly with the observer's motion, creating a **Dynamic** rather than **Static** background. |
+| **"Superconductivity"** | Zero electrical resistance in materials. | **Zero Gravitational Viscosity.** | We refer strictly to **Hydrodynamic Superfluidity** (frictionless flow) and **Gravito-Magnetism**. This is *not* an electromagnetic phenomenon; the "Heavy Dust" is a dielectric insulator. |
+| **"Dark Matter"** | A halo of invisible, non-baryonic particles (WIMPs) that interacts only via gravity. | **Thermodynamic Phase State.** | "Dark Matter" is simply the state of standard baryonic matter when $T < T_c$ and $a < a_0$. It is a **Phase**, not a **Particle**. |
+| **"Fluid"** | A collection of molecules (water/air). | **Quantum Vacuum Plenum.** | We treat the vacuum expectation value (VEV) as a continuous medium with bulk modulus and density, analogous to Bose-Einstein Condensates in condensed matter physics. |
+
+
+---
+
+## 3. The Nature of Dark Matter: "Heavy Dust"
 This theory resolves the "Missing Mass" problem by eliminating the need for exotic "WIMPs" or ghost particles. Instead, it redefines Dark Matter as **Cold, Inert Baryonic Matter**—essentially "Heavy Dust"—that remains undetected due to specific thermodynamic and hydrodynamic conditions.
 
 *   **Composition:**
@@ -69,7 +82,7 @@ This theory resolves the "Missing Mass" problem by eliminating the need for exot
 
 ---
 
-## 3. Resolving the Bullet Cluster
+## 4. Resolving the Bullet Cluster
 The Bullet Cluster (1E 0657-558) is frequently cited as the primary evidence against alternative gravity theories (like MOND) because the gravitational center of mass is separated from the visible baryonic mass. This theory resolves the anomaly not by modifying gravity, but by analyzing the **Phase Separation** of materials based on their electromagnetic and inertial properties.
 
 *   **The Plasma (Pink/Stopped): Electrical Conductors**
@@ -86,7 +99,7 @@ The Bullet Cluster (1E 0657-558) is frequently cited as the primary evidence aga
 
 ---
 
-## 4. Galactic Dynamics: Spin and Gravity
+## 5. Galactic Dynamics: Spin and Gravity
 Standard cosmology relies on "Dark Matter Halos" to explain why the outer arms of galaxies spin as fast as the inner regions (Flat Rotation Curves). This theory proposes that the anomaly is not a matter of missing mass, but of **Relativistic Fluid Dynamics** and **Variable Time Flow**.
 
 *   **The Density Gradient (The Fluid Core):**
@@ -106,7 +119,7 @@ Standard cosmology relies on "Dark Matter Halos" to explain why the outer arms o
 
 ---
 
-## 5. The Cosmic Web: Strings and Voids
+## 6. The Cosmic Web: Strings and Voids
 We reinterpret the large-scale structure of the universe not as a result of random gravitational collapse, but as a **Hydrodynamic Flow Architecture**. The "Cosmic Web" is the visible result of the Space Fluid undergoing viscous fingering and cavitation.
 
 *   **Cosmic Strings (The Compressed Flow Channels):**
@@ -125,7 +138,7 @@ We reinterpret the large-scale structure of the universe not as a result of rand
 
 ---
 
-## 6. Gravitational Waves: Geometric Ripples vs. Fluid Pressure
+## 7. Gravitational Waves: Geometric Ripples vs. Fluid Pressure
 Current observations by LIGO, Virgo, and KAGRA are interpreted as ripples in the geometric fabric of spacetime. In Cryogenic Fluid Cosmology, these are reinterpreted as **Hydrodynamic Pressure Waves** propagating through the Superfluid Vacuum.
 
 *   **Speed of Propagation ($c_g = c$):**
@@ -143,7 +156,7 @@ Current observations by LIGO, Virgo, and KAGRA are interpreted as ripples in the
 
 ---
 
-## 7. The Connection to Penrose & Fuentes: The Definitive Test
+## 8. The Connection to Penrose & Fuentes: The Definitive Test
 The theoretical framework presented here converts the philosophical debate regarding Quantum Gravity into a concrete, falsifiable prediction. The **experimental architecture proposed** by Ivette Fuentes (using Bose-Einstein Condensates in microgravity) serves as the "Supreme Court" for this theory. Note that while this experiment has not yet been authorized for the International Space Station (ISS), this theory offers a robust prediction ($\Delta a/a \approx 40 \text{ ppm}$) that argues strongly for the necessity of such a mission.
 
 *   **The Philosophical Divergence:**
@@ -169,7 +182,7 @@ The theoretical framework presented here converts the philosophical debate regar
     
 ---
 
-## 8. Supporting Evidence and Theoretical Defense
+## 9. Supporting Evidence and Theoretical Defense
 This model proposes non-standard physics. Below, we address common objections regarding Baryonic Dark Matter and Aether theory, alongside emerging evidence that supports a "Phase Transition" model of gravity.
 
 *   **Evidence A: The "Impossible" Early Galaxies (JWST)**
