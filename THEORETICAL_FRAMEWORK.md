@@ -201,6 +201,14 @@ This model proposes non-standard physics. Below, we address common objections re
     *   *The Anomaly:* The universe is expanding at different speeds depending on how you measure it.
     *   *Your Theory:* Measurements using the CMB (Early Universe) are looking at the fluid near the Phase Transition. Measurements using Supernovae (Late Universe) are looking at the fluid in the "expanded" state. Your "Dark Energy as Cavitation" model naturally predicts that expansion rates change as the fluid density/pressure changes.
 
+*   **Evidence C: The "Hidden Shell" (New Horizons & Kuiper Belt)**
+    *   *The Discovery:* Recent data from the *New Horizons* spacecraft (2024/2025) indicates the Kuiper Belt extends significantly further (up to 80 AU) than previously modeled, with dust densities increasing in regions expected to be empty.
+    *   *Relevance:* This validates the "Detection Bias" hypothesis (Ref 20). It demonstrates that vast reservoirs of cold baryonic matter can remain undetected by Earth-based sensors until observed *in situ*. If we missed a massive "Inner Kernel" of dust in our own solar system due to thermal blindness, the existence of massive, invisible "Heavy Dust" halos around galaxies is not just plausible, but probable.
+
+*   **Evidence D: Radio Transparency (The GLEAM Survey)**
+    *   *The Discovery:* The GLEAM survey maps the sky in low-frequency radio waves, observing background galaxies with high clarity through the Milky Way's halo.
+    *   *Relevance:* Radio waves pass through dielectric insulators but are scattered by conductive plasmas. The clarity of the radio sky supports the claim that the "Space Fluid" (and the Heavy Dust suspended in it) is **electrically non-conductive** (Dielectric), matching the "Bullet Cluster" separation mechanism while allowing for the coherent transmission of electromagnetic data.
+
 *   **Objection: Big Bang Nucleosynthesis (BBN) limits Baryons to 5%.**
     *   **Defense:** BBN calculations rely on the gravitational expansion rate of the early universe. In this model, the early universe was **Hot** ($T \gg T_c$). Therefore, the gravitational susceptibility $\chi(T)$ was 0. Gravity was strictly Newtonian/GR standard during nucleosynthesis. The "Dark Matter" effects (Mass amplification $\alpha \approx 5$) only onset billions of years later as the universe cooled below 2.7K. Thus, this model is consistent with BBN ratios while explaining late-universe dynamics.
 
