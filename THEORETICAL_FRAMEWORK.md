@@ -86,7 +86,7 @@ This theory resolves the "Missing Mass" problem by eliminating the need for exot
 
 *   **Opacity (The Refractive Lens):**
     Standard astronomical assumptions dictate that baryonic dust should block background starlight (occultation). However, this theory posits that the **"Active Gravity"** of these dense particles creates a high-density **"refractive shell"** in the surrounding space-fluid.
-    *   **Refractive Cloaking:** This density gradient acts as a micro-lens, guiding photons *around* the particle (Micro-Einstein Rings) rather than allowing them to strike the surface.
+    *   **Refractive Cloaking:** Due to the 'Active Gravity' of the particle, a microscopic gravity well forms around the dust grain. This acts as a refractive lens. Because the wavelength of the background electromagnetic wave is often larger than the particle itself, and the space around the particle is compressed, the wave diffracts around the 'gravity well' rather than striking the physical surface. The inert, dielectric nature of the dust prevents absorption, while the gravitational refraction renders it indistinguishable from the background at large distances.
     *   **No Shadow, No Heat:** Since photons flow around the dust grain like water around a stone, they are not absorbed. No absorption means no heating and no shadow. The dust becomes optically transparent.
 
 *   **Validation via Fuentes:**
