@@ -115,7 +115,7 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 
 ### **References**
 
-#### **I. Standard Background & Observational Evidence (Established Physics)**
+#### **I. Theoretical Foundations & Observational Evidence**
 *   **Volovik, G. E. (2003).** *The Universe in a Helium Droplet*. Oxford University Press.
     *   *Context:* The foundational text on Superfluid Vacuum Theory.
     *   Link: https://doi.org/10.1093/acprof:oso/9780198507826.001.0001
@@ -131,20 +131,20 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Jacobson, T. (1995).** Thermodynamics of Spacetime: The Einstein Equation of State. *Physical Review Letters*.
     *   *Context:* Thermodynamic derivation of gravity.
     *   Link: https://arxiv.org/abs/gr-qc/9504004
-*   **The Invisibility of Cold Baryonic Matter (Oort Cloud Constraints)**
-    *   Babich, D., & Loeb, A. (2009). Direct detection of the Oort cloud. *New Astronomy*, 14(2), 166–179.
+*   **Babich, D., & Loeb, A. (2009).** Direct detection of the Oort cloud. *New Astronomy*.
+    *   *Context:* The invisibility of cold baryonic matter.
     *   Link: https://doi.org/10.1016/j.newast.2008.07.004
-*   **Extended Kuiper Belt Structure (New Horizons Data)**
-    * Doner, A., et al. (2024). New Horizons Venetia Burney Student Dust Counter Observes Higher than Expected Fluxes Approaching 60 AU. *The Astrophysical Journal Letters*, 961, L38.
-    * Link: https://doi.org/10.3847/2041-8213/ad18b0
-*   **Radio Transparency of the Galactic Medium (GLEAM)**
-    *   Hurley-Walker, N., et al. (2017). GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey - I. A low-frequency extragalactic catalogue. *Monthly Notices of the Royal Astronomical Society*, 464(1), 1146–1167.
+*   **Doner, A., et al. (2024).** New Horizons Venetia Burney Student Dust Counter Observes Higher than Expected Fluxes Approaching 60 AU. *The Astrophysical Journal Letters*.
+    *   *Context:* Extended Kuiper Belt structure / Detection bias.
+    *   Link: https://doi.org/10.3847/2041-8213/ad18b0
+*   **Hurley-Walker, N., et al. (2017).** GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey. *MNRAS*.
+    *   *Context:* Radio transparency of the galactic medium.
     *   Link: https://doi.org/10.1093/mnras/stw2337
-*   **Radio Transparency & Galactic Structure (GLEAM-X)**
-    *   Hurley-Walker, N., et al. (2019). New candidate supernova remnants detected in the GLEAM survey over 346 < l < 356, -6 < b < 4. *Publications of the Astronomical Society of Australia*, 36, e045.
+*   **Hurley-Walker, N., et al. (2019).** New candidate supernova remnants detected in the GLEAM survey. *PASA*.
+    *   *Context:* Dielectric nature of the galactic plane.
     *   Link: https://doi.org/10.1017/pasa.2019.34
 
-#### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
+#### **II. Quantum Gravity & Collapse Models**
 *   **Howl, R., Penrose, R., & Fuentes, I. (2019).** Exploring the unification of quantum theory and general relativity with a Bose-Einstein condensate. *New Journal of Physics*.
     *   *Context:* The theoretical basis for the collapse experiment.
     *   Link: https://arxiv.org/abs/1812.04630
@@ -156,9 +156,9 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Marletto, C., & Vedral, V. (2017).** Gravitationally Induced Entanglement between Two Massive Particles. *Physical Review Letters*.
     *   Link: https://arxiv.org/abs/1707.06036
 
-#### **III. Experimental Proposals (Future Validation)**
+#### **III. Experimental Constraints & Proposals**
 *   **ESA / STE-QUEST Science Team.** (2022). Space-Time Explorer and QUantum Equivalence Space Test (STE-QUEST). *ESA Assessment Study Report*.
-    *   *Context:* The specific mission architecture (Atom Interferometry in highly elliptical orbit) capable of testing the "Dual-Key" condition (Ultracold + Microgravity) required to validate this framework.
+    *   *Context:* The specific mission architecture capable of testing the "Dual-Key" condition.
     *   Link: https://sci.esa.int/web/ste-quest
 *   **Milgrom, M. (1983).** A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. *Astrophysical Journal*.
     *   *Context:* Source of the $a_0$ acceleration scale.
@@ -178,4 +178,6 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Abedi, J., Dykaar, H., & Afshordi, N. (2017).** Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons. *Physical Review D*.
     *   *Context:* Evidence for physical horizon structure/phase change.
     *   Link: https://arxiv.org/abs/1612.00266
- 
+*   **Amaro-Seoane, P., et al. (2017).** Laser Interferometer Space Antenna (LISA). *arXiv preprint*.
+    *   *Context:* Future testbed for low-frequency fluid damping.
+    *   Link: https://arxiv.org/abs/1702.00786
