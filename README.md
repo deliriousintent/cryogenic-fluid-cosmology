@@ -140,6 +140,9 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Radio Transparency of the Galactic Medium (GLEAM)**
     *   Hurley-Walker, N., et al. (2017). GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey - I. A low-frequency extragalactic catalogue. *Monthly Notices of the Royal Astronomical Society*, 464(1), 1146–1167.
     *   Link: https://doi.org/10.1093/mnras/stw2337
+*   **Radio Transparency & Galactic Structure (GLEAM-X)**
+    *   Hurley-Walker, N., et al. (2019). New candidate supernova remnants detected in the GLEAM survey over 346 < l < 356, -6 < b < 4. *Publications of the Astronomical Society of Australia*, 36, e045.
+    *   Link: https://doi.org/10.1017/pasa.2019.34
 
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Howl, R., Penrose, R., & Fuentes, I. (2019).** Exploring the unification of quantum theory and general relativity with a Bose-Einstein condensate. *New Journal of Physics*.
