@@ -127,3 +127,36 @@ The theoretical parameters and constraints presented in this work were refined u
     Marletto, C., & Vedral, V. (2017). Gravitationally Induced Entanglement between Two Massive Particles is Sufficient Evidence of Quantum Effects in Gravity. *Physical Review Letters*, 119, 240402.
     [https://arxiv.org/abs/1707.06036](https://arxiv.org/abs/1707.06036)
 
+9.  **Foundations of Superfluid Vacuum Theory**
+    Volovik, G. E. (2003). *The Universe in a Helium Droplet*. Oxford University Press.
+    [https://doi.org/10.1093/acprof:oso/9780198507826.001.0001](https://doi.org/10.1093/acprof:oso/9780198507826.001.0001)
+
+10. **Superfluid Phase Transitions in Dark Matter**
+    Berezhiani, L., & Khoury, J. (2015). Theory of Dark Matter Superfluidity. *Physical Review D*, 92, 103510.
+    [https://arxiv.org/abs/1507.01019](https://arxiv.org/abs/1507.01019)
+
+11. **Thermodynamic Derivation of Gravity**
+    Jacobson, T. (1995). Thermodynamics of Spacetime: The Einstein Equation of State. *Physical Review Letters*, 75, 1260.
+    [https://arxiv.org/abs/gr-qc/9504004](https://arxiv.org/abs/gr-qc/9504004)
+
+   12. **The Speed of Gravity (Multi-Messenger Confirmation)**
+    Abbott, B. P., et al. (LIGO Scientific Collaboration & Virgo Collaboration). (2017). Gravitational Waves and Gamma-Rays from a Binary Neutron Star Merger: GW170817. *The Astrophysical Journal Letters*, 848, L13.
+    [https://doi.org/10.3847/2041-8213/aa91c9](https://doi.org/10.3847/2041-8213/aa91c9)
+    *(Confirms gravitational waves propagate at exactly c, constraining the viscosity of the vacuum superfluid to near-zero).*
+
+13. **The Ringdown Signal (Fluid Stabilization)**
+    Abbott, B. P., et al. (LIGO Scientific Collaboration). (2016). Observation of Gravitational Waves from a Binary Black Hole Merger. *Physical Review Letters*, 116, 061102.
+    [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
+    *(Provides the data on post-merger 'Ringdown,' interpreted here as hydrodynamic damping of the vacuum medium).*
+
+14. **Evidence for Horizon Structure ("Echoes")**
+    Abedi, J., Dykaar, H., & Afshordi, N. (2017). Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons. *Physical Review D*, 96, 082004.
+    [https://arxiv.org/abs/1612.00266](https://arxiv.org/abs/1612.00266)
+    *(Supports the view of the Event Horizon as a physical boundary/phase change rather than pure geometry).*
+
+15. **Future Low-Frequency Detection (LISA)**
+    Amaro-Seoane, P., et al. (2017). Laser Interferometer Space Antenna (LISA). *arXiv preprint*.
+    [https://arxiv.org/abs/1702.00786](https://arxiv.org/abs/1702.00786)
+    *(The future testbed for detecting low-frequency viscous damping or dispersion in the vacuum fluid).*
+
+     
