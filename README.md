@@ -137,6 +137,9 @@ The theoretical parameters and constraints presented in this work were refined u
     *   Link: https://arxiv.org/abs/1707.06036
 
 #### **III. Experimental Proposals (Future Validation)**
+*   **ESA / STE-QUEST Science Team.** (2022). Space-Time Explorer and QUantum Equivalence Space Test (STE-QUEST). *ESA Assessment Study Report*.
+    *   *Context:* The specific mission architecture (Atom Interferometry in highly elliptical orbit) capable of testing the "Dual-Key" condition (Ultracold + Microgravity) required to validate this framework.
+    *   Link: https://sci.esa.int/web/ste-quest
 *   **Milgrom, M. (1983).** A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. *Astrophysical Journal*.
     *   *Context:* Source of the $a_0$ acceleration scale.
     *   Link: https://adsabs.harvard.edu/abs/1983ApJ...270..365M
