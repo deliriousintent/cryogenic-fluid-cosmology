@@ -161,6 +161,12 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Garay, L. J., et al. (2000).** Sonic black holes in dilute Bose-Einstein condensates. *Physical Review A*.
     *   *Context:* Foundational work on "Analog Gravity," treating event horizons as sonic boundaries in a fluid medium.
     *   Link: https://doi.org/10.1103/PhysRevA.63.023611
+*   **Rankin, J. S., et al. (2019).** Anomalous Cosmic-Ray Intensity Variations in the Outer Heliosphere. *The Astrophysical Journal*.
+    *   *Context:* Identifies a "Pressure Gap" in the VLISM, suggesting an unaccounted population of particles exerting mechanical pressure on the heliosphere.
+    *   Link: https://doi.org/10.3847/1538-4357/ab3e49
+*   **Ocker, S. K., et al. (2021).** Persistent plasma waves in interstellar space detected by Voyager 1. *Nature Astronomy*.
+    *   *Context:* Detection of a continuous background vibration (the "Hum") and the density ramp supporting a fluid-dynamic vacuum.
+    *   Link: https://doi.org/10.1038/s41550-021-01363-7
    
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Berezhiani, L., & Khoury, J. (2015).** Theory of Dark Matter Superfluidity. *Physical Review D*.
