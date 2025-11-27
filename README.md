@@ -115,69 +115,92 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 
 ### **References**
 
-#### **I. Theoretical Foundations & Observational Evidence**
-*   **Volovik, G. E. (2003).** *The Universe in a Helium Droplet*. Oxford University Press.
-    *   *Context:* The foundational text on Superfluid Vacuum Theory.
-    *   Link: https://doi.org/10.1093/acprof:oso/9780198507826.001.0001
+#### **I. Standard Background & Observational Evidence (Established Physics)**
+*   **Abbott, B. P., et al. (2017).** GW170817: Observation of Gravitational Waves from a Binary Neutron Star Merger. *The Astrophysical Journal Letters*.
+    *   *Context:* LIGO confirmation that gravity propagates at $c$, constraining vacuum viscosity.
+    *   Link: https://doi.org/10.3847/2041-8213/aa91c9
+*   **Abbott, B. P., et al. (2016).** Observation of Gravitational Waves from a Binary Black Hole Merger. *Physical Review Letters*.
+    *   *Context:* Data on "Ringdown," interpreted here as hydrodynamic fluid stabilization.
+    *   Link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102
+*   **Abedi, J., Dykaar, H., & Afshordi, N. (2017).** Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons. *Physical Review D*.
+    *   *Context:* Evidence for physical horizon structure/phase change (Echoes).
+    *   Link: https://arxiv.org/abs/1612.00266
+*   **Babich, D., & Loeb, A. (2009).** Direct detection of the Oort cloud. *New Astronomy*.
+    *   *Context:* Demonstrates the invisibility of cold baryonic matter due to lack of thermal contrast.
+    *   Link: https://doi.org/10.1016/j.newast.2008.07.004
+*   **Clowe, D., et al. (2006).** A Direct Empirical Proof of the Existence of Dark Matter (The Bullet Cluster). *The Astrophysical Journal Letters*.
+    *   *Context:* Reinterpreted as phase separation between Inertial (Dielectric) Dust and Viscous (Conductive) Plasma.
+    *   Link: https://arxiv.org/abs/astro-ph/0608407
+*   **Doner, A., et al. (2024).** New Horizons Venetia Burney Student Dust Counter Observes Higher than Expected Fluxes Approaching 60 AU. *The Astrophysical Journal Letters*.
+    *   *Context:* Observational proof of "Hidden Shells" of dust in the outer solar system.
+    *   Link: https://doi.org/10.3847/2041-8213/ad18b0
+*   **Hurley-Walker, N., et al. (2017).** GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey. *MNRAS*.
+    *   *Context:* Proves the radio transparency of the galactic medium (Dielectric nature).
+    *   Link: https://doi.org/10.1093/mnras/stw2337
+*   **Hurley-Walker, N., et al. (2019).** New candidate supernova remnants detected in the GLEAM survey. *PASA*.
+    *   *Context:* High-resolution mapping of the dielectric galactic plane.
+    *   Link: https://doi.org/10.1017/pasa.2019.34
+*   **Labbé, I., et al. (2023).** A population of red candidate massive galaxies ~600 Myr after the Big Bang. *Nature*.
+    *   *Context:* JWST evidence for "Fast Gravity" onset via thermodynamic phase transition.
+    *   Link: https://arxiv.org/abs/2207.12446
+*   **Lopez, A. M., Clowes, R. G., & Williger, G. M. (2024).** A Big Ring on the Sky. *Journal of Cosmology and Astroparticle Physics*.
+    *   *Context:* Large Scale Structure anomalies suggesting hydrodynamic formation (Vortices/Rings) beyond standard $\Lambda$CDM.
+    *   Link: https://arxiv.org/abs/2402.07591
+
+#### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Berezhiani, L., & Khoury, J. (2015).** Theory of Dark Matter Superfluidity. *Physical Review D*.
     *   *Context:* Precedent for phase transitions in the dark sector.
     *   Link: https://arxiv.org/abs/1507.01019
-*   **Puthoff, H. E. (2002).** Polarizable-vacuum (PV) approach to general relativity. *Foundations of Physics*.
-    *   *Context:* Formalism for refractive index gravity.
-    *   Link: https://doi.org/10.1023/A:1016011413407
-*   **Sabín, C., & Fuentes, I. (2014).** Phonon creation by gravitational waves. *New Journal of Physics*.
-    *   *Context:* Treating the vacuum as a fluid medium.
-    *   Link: https://arxiv.org/abs/1402.7009
-*   **Jacobson, T. (1995).** Thermodynamics of Spacetime: The Einstein Equation of State. *Physical Review Letters*.
-    *   *Context:* Thermodynamic derivation of gravity.
-    *   Link: https://arxiv.org/abs/gr-qc/9504004
-*   **Babich, D., & Loeb, A. (2009).** Direct detection of the Oort cloud. *New Astronomy*.
-    *   *Context:* The invisibility of cold baryonic matter.
-    *   Link: https://doi.org/10.1016/j.newast.2008.07.004
-*   **Doner, A., et al. (2024).** New Horizons Venetia Burney Student Dust Counter Observes Higher than Expected Fluxes Approaching 60 AU. *The Astrophysical Journal Letters*.
-    *   *Context:* Extended Kuiper Belt structure / Detection bias.
-    *   Link: https://doi.org/10.3847/2041-8213/ad18b0
-*   **Hurley-Walker, N., et al. (2017).** GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey. *MNRAS*.
-    *   *Context:* Radio transparency of the galactic medium.
-    *   Link: https://doi.org/10.1093/mnras/stw2337
-*   **Hurley-Walker, N., et al. (2019).** New candidate supernova remnants detected in the GLEAM survey. *PASA*.
-    *   *Context:* Dielectric nature of the galactic plane.
-    *   Link: https://doi.org/10.1017/pasa.2019.34
-
-#### **II. Quantum Gravity & Collapse Models**
+*   **Diósi, L. (1989).** Models for universal reduction of macroscopic quantum fluctuations. *Physical Review A*.
+    *   *Context:* The original stochastic collapse model (distinct from the fluid model proposed here).
+    *   Link: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.40.1165
 *   **Howl, R., Penrose, R., & Fuentes, I. (2019).** Exploring the unification of quantum theory and general relativity with a Bose-Einstein condensate. *New Journal of Physics*.
-    *   *Context:* The theoretical basis for the collapse experiment.
+    *   *Context:* Theoretical basis for "Active Gravity" collapse.
     *   Link: https://arxiv.org/abs/1812.04630
-*   **Dobkowski, O., et al. (2025).** Observation Of The Quantum Equivalence Principle For Matter-Waves.
-    *   *Context:* The baseline "passive gravity" test (Folman experiment).
-    *   Link: https://arxiv.org/abs/2502.14535
-*   **Bose, S., et al. (2017).** A Spin Entanglement Witness for Quantum Gravity. *Physical Review Letters*.
-    *   Link: https://arxiv.org/abs/1707.06050
-*   **Marletto, C., & Vedral, V. (2017).** Gravitationally Induced Entanglement between Two Massive Particles. *Physical Review Letters*.
-    *   Link: https://arxiv.org/abs/1707.06036
-
-#### **III. Experimental Constraints & Proposals**
-*   **ESA / STE-QUEST Science Team.** (2022). Space-Time Explorer and QUantum Equivalence Space Test (STE-QUEST). *ESA Assessment Study Report*.
-    *   *Context:* The specific mission architecture capable of testing the "Dual-Key" condition.
-    *   Link: https://sci.esa.int/web/ste-quest
+*   **Jacobson, T. (1995).** Thermodynamics of Spacetime: The Einstein Equation of State. *Physical Review Letters*.
+    *   *Context:* Derivation of gravity from thermodynamics (Phase Transition basis).
+    *   Link: https://arxiv.org/abs/gr-qc/9504004
 *   **Milgrom, M. (1983).** A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. *Astrophysical Journal*.
     *   *Context:* Source of the $a_0$ acceleration scale.
     *   Link: https://adsabs.harvard.edu/abs/1983ApJ...270..365M
-*   **Touboul, P., et al. (2017).** MICROSCOPE Mission: First Results of a Space Test of the Equivalence Principle. *Physical Review Letters*.
-    *   *Context:* The null result explained by the "Warm" ($T > T_c$) condition.
-    *   Link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.231101
-*   **Clowe, D., et al. (2006).** A Direct Empirical Proof of the Existence of Dark Matter (The Bullet Cluster). *ApJ Letters*.
-    *   *Context:* Reinterpreted here as Superfluid Phase Separation (Inertial vs. Viscous).
-    *   Link: https://arxiv.org/abs/astro-ph/0608407
-*   **Labbé, I., et al. (2023).** A population of red candidate massive galaxies ~600 Myr after the Big Bang. *Nature*.
-    *   *Context:* JWST evidence for 'Fast Gravity' onset via phase transition.
-    *   Link: https://arxiv.org/abs/2207.12446
-*   **Abbott, B. P., et al. (2017).** GW170817: Observation of Gravitational Waves... *ApJ Letters*.
-    *   *Context:* LIGO confirmation of $c_g = c$.
-    *   Link: https://doi.org/10.3847/2041-8213/aa91c9
-*   **Abedi, J., Dykaar, H., & Afshordi, N. (2017).** Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons. *Physical Review D*.
-    *   *Context:* Evidence for physical horizon structure/phase change.
-    *   Link: https://arxiv.org/abs/1612.00266
+*   **Puthoff, H. E. (2002).** Polarizable-vacuum (PV) approach to general relativity. *Foundations of Physics*.
+    *   *Context:* Formalism for refractive index gravity and variable speed of light.
+    *   Link: https://doi.org/10.1023/A:1016011413407
+*   **Sabín, C., & Fuentes, I. (2014).** Phonon creation by gravitational waves. *New Journal of Physics*.
+    *   *Context:* Treating the vacuum as a fluid medium using BEC analogs.
+    *   Link: https://arxiv.org/abs/1402.7009
+*   **Silverman, M. P., & Mallett, R. L. (2002).** Cosmic degenerate matter: a superfluid model of dark matter. *General Relativity and Gravitation*.
+    *   *Context:* Support for Superfluid Vortices explaining flat rotation curves.
+    *   Link: https://doi.org/10.1023/A:1015976813356
+*   **Volovik, G. E. (2003).** *The Universe in a Helium Droplet*. Oxford University Press.
+    *   *Context:* The foundational text on Superfluid Vacuum Theory.
+    *   Link: https://doi.org/10.1093/acprof:oso/9780198507826.001.0001
+
+#### **III. Experimental Constraints & Proposals (Future Validation)**
+*   **ESA / STE-QUEST Science Team.** (2022). Space-Time Explorer and QUantum Equivalence Space Test (STE-QUEST). *ESA Assessment Study Report*.
+    *   *Context:* The specific mission architecture capable of testing the "Dual-Key" condition.
+    *   Link: https://sci.esa.int/web/ste-quest
+*   **Estève, J., Oberthaler, M. K., et al. (2008).** Squeezing and entanglement in a Bose-Einstein condensate. *Nature*.
+    *   *Context:* Creation of "Tunneling States" in BECs required for the Fuentes experiment.
+    *   Link: https://www.nature.com/articles/nature07332
+*   **Marletto, C., & Vedral, V. (2017).** Gravitationally Induced Entanglement between Two Massive Particles. *Physical Review Letters*.
+    *   *Context:* Information-theoretic constraints on quantum gravity.
+    *   Link: https://arxiv.org/abs/1707.06036
+*   **Canuel, B., Bouyer, P., et al. (2018).** Exploring gravity with the MIGA large scale atom interferometer. *Scientific Reports*.
+    *   *Context:* Underground infrastructure for gravitational measurements (MIGA).
+    *   Link: https://www.nature.com/articles/s41598-018-32165-z
 *   **Amaro-Seoane, P., et al. (2017).** Laser Interferometer Space Antenna (LISA). *arXiv preprint*.
     *   *Context:* Future testbed for low-frequency fluid damping.
     *   Link: https://arxiv.org/abs/1702.00786
+*   **Bose, S., et al. (2017).** A Spin Entanglement Witness for Quantum Gravity. *Physical Review Letters*.
+    *   *Context:* Competitor experiment (Entanglement) vs. this model (Collapse/Anomaly).
+    *   Link: https://arxiv.org/abs/1707.06050
+*   **Dobkowski, O., et al. (2025).** Observation Of The Quantum Equivalence Principle For Matter-Waves.
+    *   *Context:* The baseline "passive gravity" test (Folman experiment).
+    *   Link: https://arxiv.org/abs/2502.14535
+*   **Fein, Y. Y., Arndt, M., et al. (2019).** Quantum superposition of molecules beyond 25 kDa. *Nature Physics*.
+    *   *Context:* Current mass record for superpositions (Passive Gravity limit).
+    *   Link: https://arxiv.org/abs/1910.14538
+*   **Touboul, P., et al. (2017).** MICROSCOPE Mission: First Results of a Space Test of the Equivalence Principle. *Physical Review Letters*.
+    *   *Context:* The null result explained by the "Warm" ($T > T_c$) condition.
+    *   Link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.231101
