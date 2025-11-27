@@ -167,6 +167,12 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Ocker, S. K., et al. (2021).** Persistent plasma waves in interstellar space detected by Voyager 1. *Nature Astronomy*.
     *   *Context:* Detection of a continuous background vibration (the "Hum") and the density ramp supporting a fluid-dynamic vacuum.
     *   Link: https://doi.org/10.1038/s41550-021-01363-7
+*   **O'Dea, C. P., et al. (1992).** Radio and optical observations of 0218+357: The smallest Einstein ring? *The Astronomical Journal*.
+    *   *Context:* Observational precedent for gravitational lensing by compact mass concentrations, providing the geometric basis for the 'Active Gravity' cloaking mechanism.
+    *   Link: https://doi.org/10.1086/116323
+*   **Carilli, C. L., Rupen, M. P., & Yanny, B. (1993).** Neutral hydrogen 21 centimeter absorption at z = 0.6847 toward the "smallest Einstein ring". *The Astrophysical Journal Letters*.
+    *   *Context:* Confirms the presence of smooth, cold baryonic gas coincident with strong gravitational lensing, supporting the connection between cold matter and enhanced gravitational effects.
+    *   Link: https://doi.org/10.1086/186943
    
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Berezhiani, L., & Khoury, J. (2015).** Theory of Dark Matter Superfluidity. *Physical Review D*.
