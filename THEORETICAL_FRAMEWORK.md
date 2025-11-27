@@ -208,9 +208,9 @@ This model proposes non-standard physics. Below, we address common objections re
 
 *   **Evidence E: Pristine Accretion in Cosmic Voids (NGC 6789 & VGS 12)**
     *   *The Discovery:* Recent 2025 studies of isolated "Void Galaxies" (Trujillo et al.; Egorova et al.) have revealed intense star formation fueled by the smooth accretion of gas with no visible companion galaxies or merger remnants. In the case of VGS 12, this accretion forms a massive Polar Disk perpendicular to the galaxy's rotation, a signature of hydrodynamic flow interaction.
-    *   *Relevance:* This validates the "Flow Channel" hypothesis of Cryogenic Fluid Cosmology.
+    *   *Relevance:* This validates the "Flow Channel" hypothesis of Cryogenic Fluid Cosmology in three ways:
         1.  **Invisible Fuel:** The galaxy is feeding on the invisible "Heavy Dust" (Space Fluid condensate) flowing through the void. Because this dust is at 2.7K and dielectrically transparent (lensing), deep optical imaging sees no "source" for the gas.
-        2.  **Pristine Chemistry:** The accreting gas is metal-poor ("Pristine"), confirming it originates from the primordial Cold/Superconducting Phase of the void, rather than being recycled "Hot/Resistive" matter from other stars.
+        2.  **Pristine Chemistry:** The accreting gas is metal-poor ("Pristine"), confirming it originates from the primordial **Cold/Superconducting Phase** of the void, distinct from the processed "Hot/Resistive" matter found in stellar mergers.
         3.  **Hydrodynamic Structure:** The formation of Polar Rings perpendicular to the galaxy body suggests a **Vortex Interaction**—a spinning eddy (galaxy) interacting with a linear current (filament flow)—which is a hallmark of fluid dynamics rather than static gravitational attraction.
 
 *   **Objection: Big Bang Nucleosynthesis (BBN) limits Baryons to 5%.**
