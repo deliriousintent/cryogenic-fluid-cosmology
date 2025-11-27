@@ -134,7 +134,12 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **The Invisibility of Cold Baryonic Matter (Oort Cloud Constraints)**
     *   Babich, D., & Loeb, A. (2009). Direct detection of the Oort cloud. *New Astronomy*, 14(2), 166–179.
     *   Link: https://doi.org/10.1016/j.newast.2008.07.004
-    
+*   **Extended Kuiper Belt Structure (New Horizons Data)**
+    * Doner, A., et al. (2024). New Horizons Venetia Burney Student Dust Counter Observes Higher than Expected Fluxes Approaching 60 AU. *The Astrophysical Journal Letters*, 961, L38.
+    * Link: https://doi.org/10.3847/2041-8213/ad18b0
+*   **Radio Transparency of the Galactic Medium (GLEAM)**
+    *   Hurley-Walker, N., et al. (2017). GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey - I. A low-frequency extragalactic catalogue. *Monthly Notices of the Royal Astronomical Society*, 464(1), 1146–1167.
+    *   Link: https://doi.org/10.1093/mnras/stw2337
 
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Howl, R., Penrose, R., & Fuentes, I. (2019).** Exploring the unification of quantum theory and general relativity with a Bose-Einstein condensate. *New Journal of Physics*.
