@@ -146,7 +146,16 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Lopez, A. M., Clowes, R. G., & Williger, G. M. (2024).** A Big Ring on the Sky. *Journal of Cosmology and Astroparticle Physics*.
     *   *Context:* Large Scale Structure anomalies suggesting hydrodynamic formation (Vortices/Rings) beyond standard $\Lambda$CDM.
     *   Link: https://arxiv.org/abs/2402.07591
-
+*   **Piscicchia, K., Curceanu, C., et al. (2020).** General upper bound on the gravitational wave function collapse reduction rate. *Nature Physics*.
+    *   *Context:* The underground experiment that constrained the Diósi-Penrose model, narrowing the parameter space for collapse theories.
+    *   Link: https://doi.org/10.1038/s41567-020-1008-4
+*   **Trujillo, I., et al. (2025).** Deep imaging of the very isolated dwarf galaxy NGC 6789. *arXiv preprint*.
+    *   *Context:* Observational support for star formation fueled by invisible/smooth accretion rather than mergers.
+    *   Link: https://arxiv.org/abs/2511.07041
+*   **Egorova, E., et al. (2025).** Chemodynamic evidence of pristine gas accretion in the void galaxy VGS 12. *Astronomy & Astrophysics*.
+    *   *Context:* Direct evidence of pristine gas flow from voids into galaxies, validating the hydrodynamic 'Flow Channel' model.
+    *   Link: https://arxiv.org/abs/2511.00235
+   
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Berezhiani, L., & Khoury, J. (2015).** Theory of Dark Matter Superfluidity. *Physical Review D*.
     *   *Context:* Precedent for phase transitions in the dark sector.
