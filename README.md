@@ -16,7 +16,18 @@ For detailed definitions, mechanics, and cosmological implications (Bullet Clust
 
 ---
 
-### **2. The Model: Gravitational Superconductivity**
+### **2. Scope and Boundaries (What this Framework Is and Is Not)**
+
+To prevent conflation with historical "Aether" theories or anti-relativistic models, we explicitly define the boundaries of this proposal:
+
+*   **It IS:** A phenomenological extension of General Relativity that treats the vacuum as a physical superfluid medium (SVT) rather than pure geometry.
+*   **It IS NOT:** A rejection of General Relativity within the Solar System. We posit that GR is the correct effective theory for the "High-Pressure / High-Temperature" limit (Standard Vacuum), just as the Ideal Gas Law is correct for gases above their condensation point.
+*   **It IS:** A proposal that "Dark Matter" is a **Thermodynamic Phase State** ($T < 2.7K$) of standard baryonic matter, governed by fluid dynamics.
+*   **It IS NOT:** A proposal for "Electric Universe" cosmology. The "Heavy Dust" described here is a dielectric insulator; the "Superconductivity" refers strictly to zero gravitational viscosity (superfluidity), not electrical charge.
+
+---
+
+### **3. The Model: Gravitational Superconductivity**
 
 **The Core Hypothesis:**
 Space is a **Superfluid Medium** driven by a fixed **Time Harmonic**. Gravity is not geometric curvature, but a hydrodynamic phase transition in this medium. This transition is governed by two variables: **Temperature ($T$)** and **Pressure ($a_{\text{proper}}$)**.
@@ -38,7 +49,7 @@ If either **$T \gtrsim T_c$** (Too Hot) OR **$a_{\text{proper}} \gg a_0$** (Too 
 
 ---
 
-### **3. Rotational Dynamics (The Vortex Term)**
+### **4. Rotational Dynamics (The Vortex Term)**
 The critique that a constant mass boost ($\chi \approx \alpha$) fails to flatten rotation curves is mathematically correct *under static Newtonian assumptions*. However, this model posits that the Galactic Halo is a **Superfluid**.
 
 *   **Static Gravity ($\chi_{obs}$):** Explains the **Missing Mass** (Lensing/Bullet Cluster).
@@ -52,19 +63,19 @@ In a high-density superfluid vortex, $v_{fluid}$ does not decay as $1/r$ (like K
 
 ---
 
-### **4. Consistency with Existing Bounds (The Screening Mechanism)**
+### **5. Consistency with Existing Bounds (The Screening Mechanism)**
 *   **Terrestrial Constraints:** On Earth ($a = 9.8 \, \text{m/s}^2$), the "Hydrostatic Pressure" of gravity is $\sim 10^{10}$ times the critical limit $a_0$. This suppresses $\chi_{\text{obs}}$ to $\sim 10^{-14}$, consistent with current Eötvös torsion balance limits.
 *   **Satellite Constraints (MICROSCOPE):** Previous satellite tests observed no violation. In this model, although they satisfied the acceleration condition ($a < a_{\text{earth}}$), the test masses were **Warm** ($T \gg T_c$). The system remained in the "Resistive/Normal" phase, yielding a null result.
 
 ---
 
-### **5. The Dark Matter Solution**
+### **6. The Dark Matter Solution**
 *   **Galactic Halos:** In the deep void ($T \approx 2.7\text{K}$ and $a \ll a_0$), the screening lifts. The vacuum fluid couples fully to "Heavy Dust" (cold baryonic matter), amplifying gravity by factor $\alpha$.
 *   **The Bullet Cluster:** This model resolves the Bullet Cluster by defining Dark Matter as inert, cold baryonic dust. Unlike the hot, conductive plasma (which halted due to electromagnetic friction), the neutral dust sailed through the collision due to inertia, carrying the enhanced vacuum coupling (gravity) with it.
 
 ---
 
-### **6. Prediction: The ISS Bose-Einstein Condensate**
+### **7. Prediction: The ISS Bose-Einstein Condensate**
 *   **Experimental Setup:** We reference the proposed experiments by Ivette Fuentes and the STE-QUEST collaboration (BECs in free fall).
 *   **The Calculation:**
     *   Input: $a \approx 10^{-6} \, \text{m/s}^2$ (Microgravity) and $T \approx \text{nK}$ (Superconducting).
@@ -73,7 +84,7 @@ In a high-density superfluid vortex, $v_{fluid}$ does not decay as $1/r$ (like K
 
 ---
 
-### **7. Summary of Regimes (Stress-Test Table)**
+### **8. Summary of Regimes (Stress-Test Table)**
 
 | Environment | Proper Accel ($a$) | Temp ($T$) | Pressure Ratio ($a/a_0$) | Predicted Signal ($\chi_{\text{obs}}$) | Physical State |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -88,7 +99,7 @@ In a high-density superfluid vortex, $v_{fluid}$ does not decay as $1/r$ (like K
 
 ---
 
-### **8. Methodology: Adversarial Collaborative Synthesis**
+### **9. Methodology: Adversarial Collaborative Synthesis**
 The theoretical parameters and constraints presented in this work were refined using a novel **Adversarial Collaborative Synthesis (ACS)** framework. This process employed two distinct Large Language Models—Google’s **Gemini 3** and OpenAI’s **GPT-4.1**—acting as opposing agents. Agent A was tasked with constructing the hydrodynamic framework and phenomenological analogies, while Agent B was tasked with applying rigorous falsification criteria based on General Relativity, observational data (LIGO, MICROSCOPE), and current experimental limits. The resulting "Dual-Key" screening mechanism and the specific critical exponent ($k=1.3$) emerged as the synthesis required to satisfy the constraints imposed by both agents.
 
 ---
