@@ -1,7 +1,7 @@
 # **Cryogenic Fluid Cosmology: A Hydrodynamic Phase Transition Model for Modified Gravity and Dark Matter**
 
-> **Status:** **Exploratory Speculative Framework.**
-> This document outlines a theoretical proposal for a hydrodynamic extension to General Relativity. It is **not** an experimentally validated alternative to $\Lambda$CDM or Standard Quantum Field Theory, but a phenomenological model proposing specific phase-transition mechanisms ($T_c, a_0$) to resolve Dark Sector anomalies.
+> **Status: Exploratory Theoretical Framework.**
+> **This is a theoretical proposal for a hydrodynamic extension to General Relativity. It is NOT an experimentally validated alternative to $\Lambda$CDM or Standard Quantum Field Theory.** It serves as a **phenomenological model** to explore how specific phase-transition mechanisms ($T_c, a_0$) could resolve Dark Sector anomalies.
 
 ### **Abstract**
 We propose a model of gravity as a hydrodynamic property of a superfluid vacuum medium, governed by a thermodynamic phase transition at the Cosmic Microwave Background temperature ($T_c \approx 2.725$ K). By defining a gravitational susceptibility $\chi(T, a)$ analogous to the Ginzburg-Landau theory of superconductivity, we unify the phenomenology of Dark Matter and Modified Newtonian Dynamics (MOND) without invoking new particles. We introduce a "Dual-Key" screening mechanism dependent on both temperature and proper acceleration, which reconciles the model with terrestrial Eötvös experiments and the MICROSCOPE satellite null results. Finally, we predict a specific, detectable violation of the Equivalence Principle ($\Delta a/a \approx 4 \times 10^{-5}$) for ultracold Bose-Einstein Condensates in microgravity, offering a falsifiable test for the upcoming generation of space-based quantum sensors.
@@ -21,10 +21,10 @@ For detailed definitions, mechanics, and cosmological implications (Bullet Clust
 
 To ensure conceptual clarity, we define the strict limits of this framework:
 
-*   **It IS:** A phenomenological model treating the vacuum as a physical superfluid medium (SVT) to derive MOND-like effects from thermodynamics.
-*   **It IS NOT:** A rejection of General Relativity within the Solar System. We posit that GR is the correct effective theory for the "High-Temperature" limit ($T > T_c$), just as the Ideal Gas Law is correct for gases above their condensation point.
+*   **It IS:** A **phenomenological framework** treating the vacuum as a physical superfluid medium to derive MOND-like effects from thermodynamics.
+*   **It IS NOT:** A rejection of General Relativity within its tested domain (the Solar System). We posit that GR is the correct effective theory for the "High-Temperature" limit ($T > T_c$).
 *   **It IS:** A proposal that "Dark Matter" is a **Thermodynamic Phase State** of standard baryonic matter ($T < 2.7K$) governed by fluid dynamics.
-*   **It IS NOT:** A "Theory of Everything" or a replacement for the Standard Model of Particle Physics. It addresses only the gravitational and vacuum-energy sectors.
+*   **It IS NOT:** A claim that current cosmology is "wrong," nor is it a complete Theory of Quantum Gravity. It is a specific extension addressing the hydrodynamic behavior of the vacuum.
 
 ---
 
