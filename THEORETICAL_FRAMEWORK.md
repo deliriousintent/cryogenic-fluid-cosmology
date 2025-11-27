@@ -101,6 +101,9 @@ The Bullet Cluster (1E 0657-558) is frequently cited as the primary evidence aga
     *   **Electromagnetic Transparency:** Because it is non-conductive, the dust transits through the electromagnetic turbulence of the collision without interaction. It is immune to the "Magnetic Braking" that stopped the gas.
     *   **Inertial Separation:** Driven by pure inertia, the dust sailed through the collision like sand thrown through a magnetic field.
     *   **Gravitational Superconductivity:** While *electrically* insulating, this cold dust remains a **Gravitational Superconductor** (due to its low temperature, see Section 2). Therefore, it carries the "Active Gravity" well with it, creating the lensing signature that astronomers mistake for non-baryonic Dark Matter.
+*   **The Cusp-Core Solution (Fluid Smoothing):**
+    Standard Cold Dark Matter ($\Lambda$CDM) simulations predict that galaxies should have steep, dense "cusps" of mass in their centers. Observations, however, reveal flat "cores."
+    *   *Fluid Explanation:* In Cryogenic Fluid Cosmology, the galactic halo is a superfluid. Superfluids resist compression into singularities or sharp cusps due to quantum pressure (Heisenberg Uncertainty). The fluid naturally distributes itself into a smooth, flat core profile, matching observations of dwarf galaxies without requiring "feedback" tweaks used in standard models.
 
 ---
 
