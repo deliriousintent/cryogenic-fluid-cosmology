@@ -50,15 +50,21 @@ In this model, velocity is not merely a coordinate change; it is a physical inte
 
 ---
 
-## 2. Conceptual Disambiguation (Scope of Theory)
-To avoid conflation with historical or alternative models, we explicitly define the boundaries of this framework:
+## 2. Defining Terms and Conceptual Scope
 
-| Concept | Standard Definition | Cryogenic Fluid Definition | Distinction |
+To ensure clarity and prevent conflation with historical or alternative models, we map the terminology of this framework to its nearest standard physics equivalents and explicitly define the distinctions.
+
+| Term | Standard Physics Analog | Cryogenic Fluid Definition | Crucial Distinction |
 | :--- | :--- | :--- | :--- |
-| **"Aether"** | A static, absolute reference frame that creates "Ether Wind" (disproved by Michelson-Morley). | **Relativistic Superfluid.** | Our model preserves Lorentz Invariance. The "Bow Shock" mechanism ensures that local time dilation and the speed of light ($c$) scale exactly with the observer's motion, creating a **Dynamic** rather than **Static** background. |
-| **"Superconductivity"** | Zero electrical resistance in materials. | **Zero Gravitational Viscosity.** | We refer strictly to **Hydrodynamic Superfluidity** (frictionless flow) and **Gravito-Magnetism**. This is *not* an electromagnetic phenomenon; the "Heavy Dust" is a dielectric insulator. |
-| **"Dark Matter"** | A halo of invisible, non-baryonic particles (WIMPs) that interacts only via gravity. | **Thermodynamic Phase State.** | "Dark Matter" is simply the state of standard baryonic matter when $T < T_c$ and $a < a_0$. It is a **Phase**, not a **Particle**. |
-| **"Fluid"** | A collection of molecules (water/air). | **Quantum Vacuum Plenum.** | We treat the vacuum expectation value (VEV) as a continuous medium with bulk modulus and density, analogous to Bose-Einstein Condensates in condensed matter physics. |
+| **"Space Fluid"** | Quantum Vacuum / Scalar Field | **Compressible Superfluid Plenum** | Unlike the geometric vacuum of GR, this fluid has **Hydrodynamic Pressure** and **Density**, allowing for phase transitions and shockwaves. |
+| **"Time Washboard"** | Planck Time / Proper Time | **Fixed Background Harmonic** | Time is the **Driver**, not the Driven. It does not warp; it is the absolute frequency against which dynamic space vibrates. |
+| **"Heavy Dust"** | Baryonic Matter / WIMPs | **Dielectric Superconducting Condensate** | Dark Matter is not a new particle; it is a **Thermodynamic Phase State** of normal matter ($T < T_c$) that couples perfectly to the vacuum fluid. |
+| **"Active Gravity"** | Self-Gravitation / Curvature | **Hydrodynamic Displacement** | Gravity is not geometric curvature; it is the **Refractive Index** change in the medium caused by mass displacing the fluid. |
+| **"Aether"** | Luminiferous Aether (Static) | **Relativistic Medium (Dynamic)** | Unlike the 19th-century static Aether (disproved by Michelson-Morley), this medium supports **Lorentz Invariance**. The "Bow Shock" mechanism ensures that local time dilation scales exactly with the observer's motion. |
+
+**Scope Note:**
+In this framework, the term "Medium" or "Fluid" is a physical reality, but it must be understood in the context of **Superfluid Vacuum Theory**. It is not a classical gas that creates drag for inertial objects (which would violate Newton's First Law). It is a **zero-viscosity superfluid** where drag only manifests during acceleration (Bow Shock) or phase transitions (Gravity), thereby preserving the principles of Relativity while providing a mechanical substrate for Wavefunction Collapse stability.
+
 
 
 ---
