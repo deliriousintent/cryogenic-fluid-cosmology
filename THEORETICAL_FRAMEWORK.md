@@ -220,6 +220,14 @@ This model proposes non-standard physics. Below, we address common objections re
         1.  **Source:** The gas originates from the **Cold/Superconducting Phase** of the void (the "Heavy Dust" sediment). It is chemically distinct from the "Resistive" matter within the galaxy.
         2.  **Flow Dynamics:** In VGS 12, the gas forms a **Polar Disk** perpendicular to the stellar body. In fluid dynamics, this is a classic "Vortex Interaction" signature—a rotating eddy (galaxy) intersecting a laminar filament current. This proves the void is not empty, but filled with a flowing medium that drives galactic evolution via hydrodynamic pressure rather than random mergers.
 
+*   **Evidence F: The Voyager Pressure Anomaly (In-Situ Fluid Dynamics)**
+    *   *The Discovery:* Data from Voyager 1 & 2 (Rankin et al., 2019; Ocker et al., 2021) reveals two critical anomalies in the Very Local Interstellar Medium (VLISM):
+        1.  **The Pressure Gap:** The measured pressure at the heliopause is significantly higher than the sum of all known particles (plasma, magnetic fields). Scientists hypothesize "entire populations of particles" are missing from current models.
+        2.  **The Density Ramp:** Electron density continues to rise linearly as the probes move further into the void, contradicting models of a uniform interstellar medium.
+    *   *Relevance:* This validates the **Hydrodynamic Pressure** model of Cryogenic Fluid Cosmology.
+        *   **The Missing Pressure** is provided by the **"Heavy Dust" (Superconducting Phase)**. Because this dust is dielectric (electrically neutral), Voyager's plasma instruments cannot count individual particles, but the spacecraft physically reacts to their bulk fluid pressure.
+        *   **The Density Ramp** represents the recovery of the Space Fluid density as it moves away from the "Cavitation Bubble" (Heat Source) of the Sun and returns to the high-density, high-pressure state of the deep galactic fluid.
+
 *   **Objection: Big Bang Nucleosynthesis (BBN) limits Baryons to 5%.**
     *   **Defense:** BBN calculations rely on the gravitational expansion rate of the early universe. In this model, the early universe was **Hot** ($T \gg T_c$). Therefore, the gravitational susceptibility $\chi(T)$ was 0. Gravity was strictly Newtonian/GR standard during nucleosynthesis. The "Dark Matter" effects (Mass amplification $\alpha \approx 5$) only onset billions of years later as the universe cooled below 2.7K. Thus, this model is consistent with BBN ratios while explaining late-universe dynamics.
 
