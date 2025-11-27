@@ -1,12 +1,12 @@
-
-
 # **Cryogenic Fluid Cosmology: A Hydrodynamic Phase Transition Model for Modified Gravity and Dark Matter**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14227500.svg)](https://doi.org/10.5281/zenodo.14227500)
 
 ### **Abstract**
 We propose a model of gravity as a hydrodynamic property of a superfluid vacuum medium, governed by a thermodynamic phase transition at the Cosmic Microwave Background temperature ($T_c \approx 2.725$ K). By defining a gravitational susceptibility $\chi(T, a)$ analogous to the Ginzburg-Landau theory of superconductivity, we unify the phenomenology of Dark Matter and Modified Newtonian Dynamics (MOND) without invoking new particles. We introduce a "Dual-Key" screening mechanism dependent on both temperature and proper acceleration, which reconciles the model with terrestrial Eötvös experiments and the MICROSCOPE satellite null results. Finally, we predict a specific, detectable violation of the Equivalence Principle ($\Delta a/a \approx 4 \times 10^{-5}$) for ultracold Bose-Einstein Condensates in microgravity, offering a falsifiable test for the upcoming generation of space-based quantum sensors.
 
 For a detailed explanation of the physics, mechanics, and cosmological implications (Bullet Cluster, Galactic Rotation), 
-see the [Theoretical Framework](THEORETICAL_FRAMEWORK.md).
+see the **[Theoretical Framework](THEORETICAL_FRAMEWORK.md)**.
 
 ---
 
@@ -39,36 +39,49 @@ If either **$T \gtrsim T_c$** (Too Hot) OR **$a_{\text{proper}} \gg a_0$** (Too 
 
 ---
 
-### **3. Consistency with Existing Bounds (The Screening Mechanism)**
+### **3. Rotational Dynamics (The Vortex Term)**
+The critique that a constant mass boost ($\chi \approx \alpha$) fails to flatten rotation curves is mathematically correct *under static Newtonian assumptions*. However, this model posits that the Galactic Halo is a **Superfluid**.
+
+*   **Static Gravity ($\chi_{obs}$):** Explains the **Missing Mass** (Lensing/Bullet Cluster).
+*   **Dynamic Gravity (Vortex):** Explains the **Rotation Curve**.
+
+In a superfluid, a rotating core induces a **quantized vortex** or macroscopic rotation in the surrounding medium (Frame Dragging). The orbital velocity $v_{orb}$ is the sum of the Newtonian velocity and the **Medium Velocity ($v_{fluid}$)**:
+
+$$ v_{orb} \approx \sqrt{\frac{G_{\text{eff}} M}{r}} + v_{fluid}(r) $$
+
+In a high-density superfluid vortex, $v_{fluid}$ does not decay as $1/r$ (like Keplerian orbits) but can remain constant or decay slowly depending on the viscosity and turbulence of the "Space Fluid." This **Hydrodynamic Drag** is what flattens the curve, not the static mass boost alone.
+
+---
+
+### **4. Consistency with Existing Bounds (The Screening Mechanism)**
 *   **Terrestrial Constraints:** On Earth ($a = 9.8 \, \text{m/s}^2$), the "Hydrostatic Pressure" of gravity is $\sim 10^{10}$ times the critical limit $a_0$. This suppresses $\chi_{\text{obs}}$ to $\sim 10^{-14}$, consistent with current Eötvös torsion balance limits.
 *   **Satellite Constraints (MICROSCOPE):** Previous satellite tests observed no violation. In this model, although they satisfied the acceleration condition ($a < a_{\text{earth}}$), the test masses were **Warm** ($T \gg T_c$). The system remained in the "Resistive/Normal" phase, yielding a null result.
 
 ---
 
-### **4. The Dark Matter Solution**
+### **5. The Dark Matter Solution**
 *   **Galactic Halos:** In the deep void ($T \approx 2.7\text{K}$ and $a \ll a_0$), the screening lifts. The vacuum fluid couples fully to "Heavy Dust" (cold baryonic matter), amplifying gravity by factor $\alpha$.
 *   **The Bullet Cluster:** This model resolves the Bullet Cluster by defining Dark Matter as inert, cold baryonic dust. Unlike the hot, conductive plasma (which halted due to electromagnetic friction), the neutral dust sailed through the collision due to inertia, carrying the enhanced vacuum coupling (gravity) with it.
 
 ---
 
-### **5. Resolving Cosmic Anomalies**
+### **6. Resolving Cosmic Anomalies**
 *   **Galactic Rotation Curves:** The "Heavy Dust" in the halo is in the superconducting phase ($T \approx 2.7\text{K}$, $a < a_0$). It couples fully to the vacuum fluid, creating the "extra gravity" (Dark Matter) required to flatten rotation curves.
 *   **The Bullet Cluster:** Dark Matter is redefined as **Inert, Cold Baryonic Dust**. Unlike hot plasma (which interacts via electromagnetic friction and stops), this cold, neutral dust sails through the collision due to inertia, carrying the gravitational mass with it.
 *   **Missing Mass:** The "missing mass" is not a particle; it is the mass of the vacuum fluid itself, which only attaches to matter when it is cold and in low acceleration.
 
 ---
 
-### **6. Prediction: The ISS Bose-Einstein Condensate**
+### **7. Prediction: The ISS Bose-Einstein Condensate**
 *   **Experimental Setup:** We reference the proposed experiments by Ivette Fuentes and the STE-QUEST collaboration (BECs in free fall).
 *   **The Calculation:**
     *   Input: $a \approx 10^{-6} \, \text{m/s}^2$ (Microgravity) and $T \approx \text{nK}$ (Superconducting).
     *   **Result:** We predict a signal of $\Delta a/a \approx 3.9 \times 10^{-5}$.
 *   **Significance:** This signal is approximately **40,000x** the sensitivity floor of modern atom interferometers. It is an unambiguous "Smoking Gun."
 
-* To reproduce the values in this table, run the verification script: python parameter_visualization.py
 ---
 
-### **7. The Predictions Table (Stress-Test)**
+### **8. Summary of Regimes (Stress-Test Table)**
 
 | Environment | Proper Accel ($a$) | Temp ($T$) | Pressure Ratio ($a/a_0$) | Predicted Signal ($\chi_{\text{obs}}$) | Physical State |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -79,9 +92,11 @@ If either **$T \gtrsim T_c$** (Too Hot) OR **$a_{\text{proper}} \gg a_0$** (Too 
 
 *Caption: In this model, the "Missing Mass" of the universe is not a particle, but the mass of the Vacuum Fluid itself attaching to matter. This attachment only occurs in the "Superconducting Phase" (Halo conditions). Earth-based experiments are blinded by pressure ($a > a_0$), and standard satellite experiments are blinded by temperature ($T > T_c$). The **Fuentes ISS Experiment** is the unique "Smoking Gun" that removes both blinds simultaneously.*
 
+> *To reproduce the values in this table, run the verification script: `python model_verification.py`*
+
 ---
 
-### **8. Conclusion**
+### **9. Conclusion**
 This work challenges the "Stiff Geometry" interpretation of General Relativity championed by Penrose. By treating space as a fluid, we predict that wavefunction collapse will **not** occur for massive objects in free fall. Instead, we predict an anomalous gravitational coupling governed by thermodynamics. If the BEC experiment on the ISS detects the predicted $\sim 40 \text{ ppm}$ anomaly, it validates that Gravity is a thermodynamic property of a superfluid vacuum.
 
 ---
@@ -139,7 +154,7 @@ The theoretical parameters and constraints presented in this work were refined u
     Jacobson, T. (1995). Thermodynamics of Spacetime: The Einstein Equation of State. *Physical Review Letters*, 75, 1260.
     [https://arxiv.org/abs/gr-qc/9504004](https://arxiv.org/abs/gr-qc/9504004)
 
-   12. **The Speed of Gravity (Multi-Messenger Confirmation)**
+12. **The Speed of Gravity (Multi-Messenger Confirmation)**
     Abbott, B. P., et al. (LIGO Scientific Collaboration & Virgo Collaboration). (2017). Gravitational Waves and Gamma-Rays from a Binary Neutron Star Merger: GW170817. *The Astrophysical Journal Letters*, 848, L13.
     [https://doi.org/10.3847/2041-8213/aa91c9](https://doi.org/10.3847/2041-8213/aa91c9)
     *(Confirms gravitational waves propagate at exactly c, constraining the viscosity of the vacuum superfluid to near-zero).*
@@ -159,4 +174,28 @@ The theoretical parameters and constraints presented in this work were refined u
     [https://arxiv.org/abs/1702.00786](https://arxiv.org/abs/1702.00786)
     *(The future testbed for detecting low-frequency viscous damping or dispersion in the vacuum fluid).*
 
-     
+16. **The "Impossible" Early Galaxies (JWST Evidence)**
+    Labbé, I., et al. (2023). A population of red candidate massive galaxies ~600 Myr after the Big Bang. *Nature*, 616, 266–269.
+    [https://doi.org/10.1038/s41586-023-05786-2](https://doi.org/10.1038/s41586-023-05786-2)
+    *(Observational support for the 'Fast Gravity' phase transition, showing massive structure formation occurring earlier than standard Dark Matter models allow).*
+
+17. **The Bullet Cluster Observation (The Data Source)**
+    Clowe, D., et al. (2006). A Direct Empirical Proof of the Existence of Dark Matter. *The Astrophysical Journal Letters*, 648, L109.
+    [https://doi.org/10.1086/508162](https://doi.org/10.1086/508162)
+    *(The foundational dataset showing the separation of gravitational mass from X-ray plasma, which this theory reinterprets as inertial separation of the superfluid dust phase).*
+
+18. **Refractive Index Gravity (Mathematical Precedent)**
+    Puthoff, H. E. (2002). Polarizable-vacuum (PV) approach to general relativity. *Foundations of Physics*, 32, 927–943.
+    [https://doi.org/10.1023/A:1016011413407](https://doi.org/10.1023/A:1016011413407)
+    *(Provides the formal derivation for treating gravity as a variable refractive index in a physical medium, supporting the 'Active Gravity' lensing mechanism).*
+
+19. **Superfluid Vortices & Rotation Curves**
+    Silverman, M. P., & Mallett, R. L. (2002). Cosmic degenerate matter: a superfluid model of dark matter. *General Relativity and Gravitation*, 34, 633–649.
+    [https://doi.org/10.1023/A:1015976813356](https://doi.org/10.1023/A:1015976813356)
+    *(Theoretical support for the 'Superfluid Vortex' mechanism, arguing that galactic halos act as macroscopic quantum fluids to explain flat rotation curves).*
+
+
+
+
+
+    
