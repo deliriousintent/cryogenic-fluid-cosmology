@@ -1,6 +1,7 @@
 # **Cryogenic Fluid Cosmology: A Hydrodynamic Phase Transition Model for Modified Gravity and Dark Matter**
 
-> **Status:** *Exploratory Theoretical Framework.* This proposal posits a hydrodynamic extension to General Relativity. It is conceptually adjacent to Superfluid Vacuum Theory (SVT) but introduces a novel "Dual-Key" phase transition mechanism ($T_c$ and $a_0$) to resolve Dark Sector anomalies.
+> **Status:** **Exploratory Speculative Framework.**
+> This document outlines a theoretical proposal for a hydrodynamic extension to General Relativity. It is **not** an experimentally validated alternative to $\Lambda$CDM or Standard Quantum Field Theory, but a phenomenological model proposing specific phase-transition mechanisms ($T_c, a_0$) to resolve Dark Sector anomalies.
 
 ### **Abstract**
 We propose a model of gravity as a hydrodynamic property of a superfluid vacuum medium, governed by a thermodynamic phase transition at the Cosmic Microwave Background temperature ($T_c \approx 2.725$ K). By defining a gravitational susceptibility $\chi(T, a)$ analogous to the Ginzburg-Landau theory of superconductivity, we unify the phenomenology of Dark Matter and Modified Newtonian Dynamics (MOND) without invoking new particles. We introduce a "Dual-Key" screening mechanism dependent on both temperature and proper acceleration, which reconciles the model with terrestrial Eötvös experiments and the MICROSCOPE satellite null results. Finally, we predict a specific, detectable violation of the Equivalence Principle ($\Delta a/a \approx 4 \times 10^{-5}$) for ultracold Bose-Einstein Condensates in microgravity, offering a falsifiable test for the upcoming generation of space-based quantum sensors.
@@ -16,14 +17,14 @@ For detailed definitions, mechanics, and cosmological implications (Bullet Clust
 
 ---
 
-### **2. Scope and Boundaries (What this Framework Is and Is Not)**
+### **2. Scope and Boundaries**
 
-To prevent conflation with historical "Aether" theories or anti-relativistic models, we explicitly define the boundaries of this proposal:
+To ensure conceptual clarity, we define the strict limits of this framework:
 
-*   **It IS:** A phenomenological extension of General Relativity that treats the vacuum as a physical superfluid medium (SVT) rather than pure geometry.
-*   **It IS NOT:** A rejection of General Relativity within the Solar System. We posit that GR is the correct effective theory for the "High-Pressure / High-Temperature" limit (Standard Vacuum), just as the Ideal Gas Law is correct for gases above their condensation point.
-*   **It IS:** A proposal that "Dark Matter" is a **Thermodynamic Phase State** ($T < 2.7K$) of standard baryonic matter, governed by fluid dynamics.
-*   **It IS NOT:** A proposal for "Electric Universe" cosmology. The "Heavy Dust" described here is a dielectric insulator; the "Superconductivity" refers strictly to zero gravitational viscosity (superfluidity), not electrical charge.
+*   **It IS:** A phenomenological model treating the vacuum as a physical superfluid medium (SVT) to derive MOND-like effects from thermodynamics.
+*   **It IS NOT:** A rejection of General Relativity within the Solar System. We posit that GR is the correct effective theory for the "High-Temperature" limit ($T > T_c$), just as the Ideal Gas Law is correct for gases above their condensation point.
+*   **It IS:** A proposal that "Dark Matter" is a **Thermodynamic Phase State** of standard baryonic matter ($T < 2.7K$) governed by fluid dynamics.
+*   **It IS NOT:** A "Theory of Everything" or a replacement for the Standard Model of Particle Physics. It addresses only the gravitational and vacuum-energy sectors.
 
 ---
 
@@ -106,7 +107,7 @@ The theoretical parameters and constraints presented in this work were refined u
 
 ### **References**
 
-#### **I. Theoretical Foundations (Superfluid Vacuum & Analog Gravity)**
+#### **I. Standard Background & Observational Evidence (Established Physics)**
 *   **Volovik, G. E. (2003).** *The Universe in a Helium Droplet*. Oxford University Press.
     *   *Context:* The foundational text on Superfluid Vacuum Theory.
     *   Link: https://doi.org/10.1093/acprof:oso/9780198507826.001.0001
@@ -123,7 +124,7 @@ The theoretical parameters and constraints presented in this work were refined u
     *   *Context:* Thermodynamic derivation of gravity.
     *   Link: https://arxiv.org/abs/gr-qc/9504004
 
-#### **II. Quantum Gravity & Collapse Models**
+#### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Howl, R., Penrose, R., & Fuentes, I. (2019).** Exploring the unification of quantum theory and general relativity with a Bose-Einstein condensate. *New Journal of Physics*.
     *   *Context:* The theoretical basis for the collapse experiment.
     *   Link: https://arxiv.org/abs/1812.04630
@@ -135,7 +136,7 @@ The theoretical parameters and constraints presented in this work were refined u
 *   **Marletto, C., & Vedral, V. (2017).** Gravitationally Induced Entanglement between Two Massive Particles. *Physical Review Letters*.
     *   Link: https://arxiv.org/abs/1707.06036
 
-#### **III. Observational Evidence & Constraints**
+#### **III. Experimental Proposals (Future Validation)**
 *   **Milgrom, M. (1983).** A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. *Astrophysical Journal*.
     *   *Context:* Source of the $a_0$ acceleration scale.
     *   Link: https://adsabs.harvard.edu/abs/1983ApJ...270..365M
