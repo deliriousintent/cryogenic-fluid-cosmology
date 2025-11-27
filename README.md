@@ -101,7 +101,15 @@ In a high-density superfluid vortex, $v_{fluid}$ does not decay as $1/r$ (like K
 ---
 
 ### **9. Methodology: Adversarial Collaborative Synthesis**
-The theoretical parameters and constraints presented in this work were refined using a novel **Adversarial Collaborative Synthesis (ACS)** framework. This process employed two distinct Large Language Models—Google’s **Gemini 3** and OpenAI’s **GPT-4.1**—acting as opposing agents. Agent A was tasked with constructing the hydrodynamic framework and phenomenological analogies, while Agent B was tasked with applying rigorous falsification criteria based on General Relativity, observational data (LIGO, MICROSCOPE), and current experimental limits. The resulting "Dual-Key" screening mechanism and the specific critical exponent ($k=1.3$) emerged as the synthesis required to satisfy the constraints imposed by both agents.
+
+The conceptual foundation, core hypotheses, and physical intuition of Cryogenic Fluid Cosmology **originate solely from the author**. To provisionally vet these concepts against established physics, an **Adversarial Collaborative Synthesis (ACS)** framework was employed.
+
+This process utilized two distinct Large Language Models—Google’s **Gemini 3** and OpenAI’s **GPT-4.1**—acting as subordinate agents under human direction:
+
+*   **Agent A (Formalization):** Tasked with translating the author's hydrodynamic intuitions into structured phenomenological arguments and standard physics terminology.
+*   **Agent B (The Adversary):** Tasked with systematically probing the author's claims for apparent conflicts with General Relativity, observational datasets (e.g., LIGO, MICROSCOPE), and current experimental limits, to the extent these are represented in its training data.
+
+The specific mathematical parameters (such as the critical exponent $k=1.3$) were not arbitrarily proposed by the models, but were arrived at through an iterative stress-testing process in which **the author refined the equations until they survived Agent B’s objections.** This ACS procedure should be understood as an AI-assisted heuristic filter—useful for catching blatant inconsistencies—but not as a substitute for formal derivations, detailed calculations, or independent peer review.
 
 ---
 
