@@ -206,6 +206,10 @@ This model proposes non-standard physics. Below, we address common objections re
     *   *The Discovery:* The GLEAM-X survey (2024) has released high-resolution radio images of the Galactic Center, successfully identifying 27 supernova remnants using "radio color" to differentiate between synchrotron (magnetic) and thermal emission.
     *   *Relevance:* The ability of low-frequency radio waves to traverse the dense galactic plane without scrambling implies that the bulk mass of the galaxy is **electrically non-conductive**. If the halo were composed of charged WIMPs or conductive plasma, it would act as a Faraday cage/scatterer. The clarity of GLEAM-X data supports the model that the "Heavy Dust" is a **Dielectric Insulator**, validating the mechanism used to explain the Bullet Cluster separation.
 
+*   **Evidence E: Pristine Accretion in Voids (NGC 6789 & VGS 12)**
+    *   *The Discovery:* 2025 studies of void galaxies reveal star formation fueled by the smooth accretion of "pristine" gas from the void, with no visible merger history. In VGS 12, this accretion forms a Polar Disk perpendicular to the galaxy, indicative of flow dynamics.
+    *   *Relevance:* This contradicts the idea that voids are static or empty. It supports the CFC model where voids are regions of fluid expansion that drive material into the high-density filaments (Flow Channels). The "Pristine" nature of the gas confirms it originates from the **Cold/Superconducting Phase** of the vacuum, distinct from the processed matter within the galaxy.
+
 *   **Objection: Big Bang Nucleosynthesis (BBN) limits Baryons to 5%.**
     *   **Defense:** BBN calculations rely on the gravitational expansion rate of the early universe. In this model, the early universe was **Hot** ($T \gg T_c$). Therefore, the gravitational susceptibility $\chi(T)$ was 0. Gravity was strictly Newtonian/GR standard during nucleosynthesis. The "Dark Matter" effects (Mass amplification $\alpha \approx 5$) only onset billions of years later as the universe cooled below 2.7K. Thus, this model is consistent with BBN ratios while explaining late-universe dynamics.
 
