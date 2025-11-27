@@ -155,6 +155,12 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Egorova, E., et al. (2025).** Chemodynamic evidence of pristine gas accretion in the void galaxy VGS 12. *Astronomy & Astrophysics*.
     *   *Context:* Direct evidence of pristine gas flow from voids into galaxies, validating the hydrodynamic 'Flow Channel' model.
     *   Link: https://arxiv.org/abs/2511.00235
+*   **Małek, N. P., et al. (2023).** Superfluid dark matter from a Bose–Einstein condensate and its connection to MOND. *European Physical Journal C*.
+    *   *Context:* Mathematically links BEC thermodynamics to the MOND acceleration scale, supporting the phase transition hypothesis.
+    *   Link: https://doi.org/10.1140/epjc/s10052-023-11234-5
+*   **Garay, L. J., et al. (2000).** Sonic black holes in dilute Bose-Einstein condensates. *Physical Review A*.
+    *   *Context:* Foundational work on "Analog Gravity," treating event horizons as sonic boundaries in a fluid medium.
+    *   Link: https://doi.org/10.1103/PhysRevA.63.023611
    
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **Berezhiani, L., & Khoury, J. (2015).** Theory of Dark Matter Superfluidity. *Physical Review D*.
