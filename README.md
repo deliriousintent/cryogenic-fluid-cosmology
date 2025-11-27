@@ -96,7 +96,7 @@ In a high-density superfluid vortex, $v_{fluid}$ does not decay as $1/r$ (like K
 
 *Caption: In this model, the "Missing Mass" of the universe is not a particle, but the mass of the Vacuum Fluid itself attaching to matter. This attachment only occurs in the "Superconducting Phase" (Halo conditions). Earth-based experiments are blinded by pressure ($a > a_0$), and standard satellite experiments are blinded by temperature ($T > T_c$). The **Fuentes ISS Experiment** is the unique "Smoking Gun" that removes both blinds simultaneously.*
 
-> *To reproduce the values in this table, run the verification script: `python parameter_visualization.py`*
+> *To generate these values using the Python implementation of the model, run: `python parameter_visualization.py`*
 
 ---
 
