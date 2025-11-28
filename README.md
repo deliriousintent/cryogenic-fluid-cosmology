@@ -202,6 +202,12 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Volovik, G. E. (2003).** *The Universe in a Helium Droplet*. Oxford University Press.
     *   *Context:* The foundational text on Superfluid Vacuum Theory.
     *   Link: https://doi.org/10.1093/acprof:oso/9780198507826.001.0001
+*   **Hamilton, A. J. S., & Lisle, J. P. (2008).** The River Model of Black Holes. *American Journal of Physics*.
+    *   *Context:* Mathematical proof that GR is compatible with a "flowing space" interpretation.
+    *   Link: https://arxiv.org/abs/gr-qc/0411060
+*   **Riess, A. G., et al. (2019).** Large Magellanic Cloud Cepheid Standards... *The Astrophysical Journal*.
+    *   *Context:* The Hubble Tension data, supporting a dynamic vacuum energy model.
+    *   Link: https://arxiv.org/abs/1903.07603
 
 #### **III. Experimental Constraints & Proposals (Future Validation)**
 *   **ESA / STE-QUEST Science Team.** (2022). Space-Time Explorer and QUantum Equivalence Space Test (STE-QUEST). *ESA Assessment Study Report*.
