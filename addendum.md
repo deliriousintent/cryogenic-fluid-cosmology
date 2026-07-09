@@ -108,6 +108,27 @@ While 150,000 Earth masses of scattered comets across 50 light-years sounds tiny
 Because all of this cold baryonic dust orbits the galactic center in the same direction, its collective angular momentum modifies the Frame-Dragging metric ($g_{0i}$). Once this continuous dust background satisfies the Ginzburg-Landau temperature and acceleration limits, it locks into the superfluid vacuum, creating the exact high-drag vortex that flattens our galaxy's rotation curves.
 ------------------------------
 
+#### **IV. Advanced Relativistic Wave Mechanics & Conformal Frameworks**
+
+- **Mannheim, P. D. (2022).** Critique of the use of geodesics in astrophysics and cosmology. *Classical and Quantum Gravity*.
+    - *Context:* Establishes that in the presence of strong gravitational metrics, spacetime acts as a physical refractive medium that shifts trajectories off the standard light cone, validating the wave-bearing superfluid assumptions of the model.
+    - Link: https://doi.org
+
+- **Mannheim, P. D. (2026).** Conformal gravity and the low acceleration limit of the radial acceleration relation. *arXiv preprint*.
+    - *Context:* Derives the low-acceleration limit of the Radial Acceleration Relation (RAR/MOND) strictly from fourth-order conformal Weyl tensor geometries, providing the underlying metric framework for the 6–10 light-year resonance walls.
+    - Link: https://arxiv.org
+
+- **Mannheim, P. D. (2026).** States that grow linearly in time, exceptional points, and zero norm states in the simple harmonic oscillator. *arXiv preprint*.
+    - *Context:* Proves that non-Hermitian systems governed by space-time reflection ($\mathcal{PT}$ symmetry) maintain stable stationary states over time, providing the quantum framework that allows the 100x+ energy nodes to remain fixed in space.
+    - Link: https://arxiv.org
+
+- **Turyshev, S. G., et al. (2012).** Support for the thermal origin of the Pioneer anomaly. *Physical Review Letters*.
+    - *Context:* Re-evaluated within this model as the boundary condition where close-range spacecraft cross the $a_0$ threshold and enter the high-drag vortex medium of the outer heliosphere.
+    - Link: https://doi.org
+
+- **Strogatz, S. H. (2000).** From Kuramoto to Crawford: exploring the onset of synchronization in populations of coupled oscillators. *Physica D: Nonlinear Phenomena*.
+    - *Context:* Precedent for frequency entrainment and injection locking in large, multi-body dynamical systems, serving as the mathematical template for stellar phased-array synchronization.
+    - Link: https://doi.org
 
 
 
