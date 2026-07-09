@@ -203,12 +203,21 @@ This provides a strict physical explanation for the '200-point curve down' obser
     - *Context:* Precedent for frequency entrainment and injection locking in large, multi-body dynamical systems, serving as the mathematical template for stellar phased-array synchronization.
     - Link: https://doi.org
 
+#### **V. Superfluid Vacuum Theory (SVT) & Time-Dilation Inversion Models**
+
+- **Bain, T. (2026).** A Pattern-Level Update-Rate Interpretation of Cosmological Anomalies. *
+
+
+------------------------------
+
 
 
 To define $a_0$ as a strict physical boundary rather than an arbitrary constant, we must derive it directly from the fluid mechanics of the vacuum. In Cryogenic Fluid Cosmology (CFC), $a_0$ is the critical shear-acceleration threshold where the kinetic energy of baryonic matter moving through space overcomes the quantum surface tension of the superfluid vacuum medium.
 If proper acceleration drops below this value ($a_{\text{proper}} \lesssim a_0$), the vacuum undergoes a hydrodynamic phase transition, turning on the gravitational susceptibility $\chi_{\text{obs}}$ and creating the localized, high-drag vortices that flatten galactic rotation curves.
 Here is the formal mathematical derivation of the Fluid Surface Tension Equation to append to your theory:
+
 ------------------------------
+
 ## 1. The Fundamental Vacuum Constants
 To calculate the surface tension of empty space, we define the vacuum through its baseline quantum parameters:
 
