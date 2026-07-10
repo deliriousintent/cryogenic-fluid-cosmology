@@ -175,6 +175,9 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
     *   Link: https://doi.org/10.1086/186943
    
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
+*   **van Dokkum et al. 2025** JWST Confirmation of a Runaway Supermassive Black Hole via its Supersonic Bow Shock.** *arXiv:2512.04166 [astro-ph.GA]*.
+    *   Provides observational evidence of a 62 kpc linear wake and a 600 km/s kinematic discontinuity, substantiating the existence of a physical bow shock and fluidic decompression zone created by massive objects moving through the vacuum medium.
+    *   Link: https://arxiv.org/abs/2512.04166
 *   **Berezhiani, L., & Khoury, J. (2015).** Theory of Dark Matter Superfluidity. *Physical Review D*.
     *   *Context:* Precedent for phase transitions in the dark sector.
     *   Link: https://arxiv.org/abs/1507.01019
