@@ -241,3 +241,8 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Touboul, P., et al. (2017).** MICROSCOPE Mission: First Results of a Space Test of the Equivalence Principle. *Physical Review Letters*.
     *   *Context:* The null result explained by the "Warm" ($T > T_c$) condition.
     *   Link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.231101
+
+addendum edit: bullet cluster related links
+Dursi & Pfrommer (2008) - "Draping of cluster magnetic fields over bullets and bubbles" (The Astrophysical Journal)
+Squire & Hopkins (2018) - "Resonant Drag Instability of Dust in Plasma" (Monthly Notices of the Royal Astronomical Society).
+Pfenniger & Combes (1994) - "Is dark matter in spiral galaxies cold gas? I. Observational constraints and dynamical clues" (Astronomy & Astrophysics).
