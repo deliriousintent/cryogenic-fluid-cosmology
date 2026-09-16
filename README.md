@@ -187,6 +187,7 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Howl, R., Penrose, R., & Fuentes, I. (2019).** Exploring the unification of quantum theory and general relativity with a Bose-Einstein condensate. *New Journal of Physics*.
     *   *Context:* Theoretical basis for "Active Gravity" collapse.
     *   Link: https://arxiv.org/abs/1812.04630
+    *   Link: https://arxiv.org/html/2305.13285v2
 *   **Jacobson, T. (1995).** Thermodynamics of Spacetime: The Einstein Equation of State. *Physical Review Letters*.
     *   *Context:* Derivation of gravity from thermodynamics (Phase Transition basis).
     *   Link: https://arxiv.org/abs/gr-qc/9504004
