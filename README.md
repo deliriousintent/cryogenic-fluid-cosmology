@@ -176,6 +176,9 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
 *   **Siyu He, Shadab Alam, Simone Ferraro, Yen-Chi Chen, Shirley Ho** The detection of the imprint of filaments on Cosmic Microwave Background (CMB) lensing
     *   context: Observational differences in the CMB due to x-rays traveling through compressed space around galactic filaments
     *   link: https://arxiv.org/pdf/1709.02543
+*   **Aix-Marseille Univ, CNRS, CNES, LAM, Marseille, France** Rotation curves and the dark matter problem
+    *   context: Oort Cloud as non-ionic, neutral baryonic matter
+    *   link: https://arxiv.org/pdf/2309.06390
    
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **van Dokkum et al. 2025** JWST Confirmation of a Runaway Supermassive Black Hole via its Supersonic Bow Shock.** *arXiv:2512.04166 [astro-ph.GA]*.
