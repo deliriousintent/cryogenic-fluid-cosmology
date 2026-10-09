@@ -177,8 +177,11 @@ The specific mathematical parameters (such as the critical exponent $k=1.3$) wer
     *   context: Observational differences in the CMB due to x-rays traveling through compressed space around galactic filaments
     *   link: https://arxiv.org/pdf/1709.02543
 *   **Aix-Marseille Univ, CNRS, CNES, LAM, Marseille, France** Rotation curves and the dark matter problem
-    *   context: Oort Cloud as non-ionic, neutral baryonic matter
+    *   context: Oort Cloud as non-ionic, neutral baryonic matter.
     *   link: https://arxiv.org/pdf/2309.06390
+*   **D. J. Fixsen Draft version November 26, 2024** THE TEMPERATURE OF THE COSMIC MICROWAVE BACKGROUND
+    *   context: proving that the cosmic ocean sits uniformly at 2.725 K, Dale Fixsen provided the exact thermodynamic tipping point required for the vacuum to freeze into the high-drag superfluid that holds our galaxies together.
+    *   link: https://arxiv.org/pdf/0911.1955
    
 #### **II. Theoretical Foundations & Analogies (Superfluid/Vacuum Models)**
 *   **van Dokkum et al. 2025** JWST Confirmation of a Runaway Supermassive Black Hole via its Supersonic Bow Shock.** *arXiv:2512.04166 [astro-ph.GA]*.
